@@ -1,0 +1,5000 @@
+[
+Melhor caminho: [0, 6, 1, 8, 4, 3, 5, 9, 7, 2, 10, 0]
+Menor distância: 87
+tempo decorrido: 1528 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 5, 4, 10, 8, 2, 7, 3, 6, 0]
+Menor distância: 56
+tempo decorrido: 1790 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 4, 6, 1, 2, 5, 9, 3, 8, 10, 0]
+Menor distância: 57
+tempo decorrido: 1415 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 3, 4, 9, 5, 6, 10, 8, 7, 0]
+Menor distância: 58
+tempo decorrido: 2017 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 9, 7, 10, 1, 6, 8, 4, 5, 0]
+Menor distância: 56
+tempo decorrido: 1748 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 6, 10, 2, 3, 8, 5, 9, 0]
+Menor distância: 62
+tempo decorrido: 1720 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 5, 6, 9, 7, 10, 3, 4, 2, 0]
+Menor distância: 39
+tempo decorrido: 1651 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 6, 1, 10, 8, 7, 4, 2, 9, 0]
+Menor distância: 46
+tempo decorrido: 1653 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 6, 9, 4, 3, 5, 1, 10, 8, 0]
+Menor distância: 32
+tempo decorrido: 1768 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 3, 4, 7, 9, 2, 6, 8, 10, 0]
+Menor distância: 51
+tempo decorrido: 1597 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 4, 1, 10, 6, 8, 5, 2, 9, 0]
+Menor distância: 49
+tempo decorrido: 1419 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 10, 7, 6, 4, 1, 8, 5, 9, 0]
+Menor distância: 76
+tempo decorrido: 1746 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 9, 2, 6, 10, 4, 3, 5, 7, 0]
+Menor distância: 44
+tempo decorrido: 2140 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 1, 3, 4, 6, 7, 10, 8, 9, 0]
+Menor distância: 55
+tempo decorrido: 1456 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 10, 7, 4, 8, 9, 3, 5, 2, 0]
+Menor distância: 49
+tempo decorrido: 1465 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 6, 1, 4, 8, 5, 10, 3, 9, 0]
+Menor distância: 59
+tempo decorrido: 1409 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 7, 8, 3, 6, 9, 4, 2, 5, 0]
+Menor distância: 50
+tempo decorrido: 1819 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 7, 2, 6, 10, 1, 3, 4, 8, 0]
+Menor distância: 65
+tempo decorrido: 1958 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 7, 4, 9, 5, 8, 10, 1, 6, 0]
+Menor distância: 61
+tempo decorrido: 2047 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 6, 7, 8, 9, 2, 1, 5, 10, 0]
+Menor distância: 55
+tempo decorrido: 2064 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 6, 10, 7, 1, 8, 5, 4, 3, 0]
+Menor distância: 79
+tempo decorrido: 2075 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 6, 1, 10, 9, 3, 5, 4, 8, 0]
+Menor distância: 53
+tempo decorrido: 1993 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 8, 4, 5, 7, 3, 6, 10, 0]
+Menor distância: 43
+tempo decorrido: 1404 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 1, 5, 7, 9, 10, 4, 6, 3, 0]
+Menor distância: 81
+tempo decorrido: 1706 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 3, 8, 2, 6, 9, 7, 5, 10, 0]
+Menor distância: 60
+tempo decorrido: 1987 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 9, 5, 3, 4, 6, 2, 7, 0]
+Menor distância: 64
+tempo decorrido: 1725 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 9, 8, 3, 7, 6, 2, 4, 10, 0]
+Menor distância: 43
+tempo decorrido: 1464 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 7, 5, 1, 3, 8, 10, 2, 9, 0]
+Menor distância: 46
+tempo decorrido: 1566 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 1, 10, 6, 4, 8, 3, 5, 7, 0]
+Menor distância: 58
+tempo decorrido: 1897 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 8, 9, 10, 2, 4, 3, 6, 7, 0]
+Menor distância: 60
+tempo decorrido: 1808 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 9, 5, 8, 10, 4, 3, 2, 6, 0]
+Menor distância: 62
+tempo decorrido: 1675 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 7, 5, 9, 10, 4, 3, 2, 8, 0]
+Menor distância: 76
+tempo decorrido: 1582 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 8, 9, 2, 7, 10, 6, 1, 5, 0]
+Menor distância: 60
+tempo decorrido: 1665 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 10, 5, 1, 2, 4, 7, 9, 6, 0]
+Menor distância: 62
+tempo decorrido: 1547 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 2, 8, 3, 1, 10, 4, 7, 6, 9, 0]
+Menor distância: 87
+tempo decorrido: 1978 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 1, 9, 3, 10, 8, 4, 7, 6, 0]
+Menor distância: 69
+tempo decorrido: 1692 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 2, 8, 7, 1, 9, 5, 10, 4, 0]
+Menor distância: 63
+tempo decorrido: 1991 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 2, 7, 9, 5, 3, 1, 8, 10, 0]
+Menor distância: 67
+tempo decorrido: 1558 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 7, 8, 5, 3, 10, 4, 6, 9, 0]
+Menor distância: 59
+tempo decorrido: 1371 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 3, 4, 9, 8, 2, 10, 7, 6, 0]
+Menor distância: 70
+tempo decorrido: 1976 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 10, 2, 1, 3, 9, 5, 4, 7, 0]
+Menor distância: 76
+tempo decorrido: 1472 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 1, 10, 2, 6, 3, 7, 4, 8, 0]
+Menor distância: 41
+tempo decorrido: 1505 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 2, 9, 7, 3, 5, 10, 6, 8, 0]
+Menor distância: 50
+tempo decorrido: 2083 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 8, 3, 4, 7, 6, 10, 5, 2, 0]
+Menor distância: 37
+tempo decorrido: 1649 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 1, 10, 9, 5, 4, 3, 6, 7, 0]
+Menor distância: 47
+tempo decorrido: 1661 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 6, 8, 2, 5, 3, 7, 4, 1, 10, 0]
+Menor distância: 53
+tempo decorrido: 1744 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 6, 7, 10, 2, 9, 3, 8, 4, 0]
+Menor distância: 51
+tempo decorrido: 1846 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 9, 1, 6, 8, 4, 2, 7, 10, 0]
+Menor distância: 50
+tempo decorrido: 1690 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 5, 6, 1, 3, 2, 8, 4, 9, 0]
+Menor distância: 52
+tempo decorrido: 1626 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 1, 3, 7, 9, 8, 2, 4, 10, 0]
+Menor distância: 48
+tempo decorrido: 1587 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 6, 2, 1, 3, 10, 9, 5, 4, 8, 0]
+Menor distância: 53
+tempo decorrido: 1707 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 9, 6, 1, 5, 4, 3, 8, 10, 0]
+Menor distância: 32
+tempo decorrido: 1567 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 5, 2, 9, 8, 3, 10, 1, 7, 0]
+Menor distância: 39
+tempo decorrido: 1591 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 4, 3, 5, 8, 6, 10, 7, 2, 0]
+Menor distância: 48
+tempo decorrido: 1900 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 8, 6, 9, 5, 10, 4, 1, 7, 0]
+Menor distância: 49
+tempo decorrido: 1562 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 1, 8, 3, 4, 6, 5, 2, 9, 0]
+Menor distância: 54
+tempo decorrido: 1614 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 6, 7, 4, 5, 3, 10, 2, 8, 0]
+Menor distância: 59
+tempo decorrido: 1799 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 4, 10, 5, 9, 3, 8, 6, 2, 0]
+Menor distância: 40
+tempo decorrido: 1705 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 10, 1, 3, 6, 9, 4, 8, 5, 0]
+Menor distância: 57
+tempo decorrido: 1651 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 8, 1, 10, 7, 5, 3, 2, 9, 0]
+Menor distância: 47
+tempo decorrido: 1448 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 1, 4, 5, 7, 9, 6, 8, 10, 0]
+Menor distância: 63
+tempo decorrido: 1742 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 9, 3, 8, 4, 2, 5, 6, 10, 0]
+Menor distância: 49
+tempo decorrido: 1770 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 5, 1, 4, 3, 8, 10, 9, 2, 7, 0]
+Menor distância: 65
+tempo decorrido: 1852 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 1, 10, 6, 3, 4, 5, 2, 9, 0]
+Menor distância: 38
+tempo decorrido: 1588 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 9, 2, 3, 6, 10, 7, 4, 8, 0]
+Menor distância: 72
+tempo decorrido: 1757 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 7, 8, 5, 9, 2, 6, 1, 10, 0]
+Menor distância: 62
+tempo decorrido: 1497 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 8, 6, 10, 1, 2, 9, 4, 7, 0]
+Menor distância: 74
+tempo decorrido: 1813 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 6, 10, 8, 1, 5, 9, 2, 7, 0]
+Menor distância: 41
+tempo decorrido: 1535 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 5, 2, 7, 6, 9, 1, 10, 4, 0]
+Menor distância: 50
+tempo decorrido: 1547 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 5, 4, 7, 3, 6, 8, 9, 10, 0]
+Menor distância: 53
+tempo decorrido: 2082 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 3, 10, 9, 4, 8, 6, 7, 0]
+Menor distância: 51
+tempo decorrido: 1738 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 2, 10, 4, 7, 3, 8, 6, 9, 0]
+Menor distância: 61
+tempo decorrido: 1542 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 4, 3, 9, 7, 1, 6, 2, 10, 0]
+Menor distância: 56
+tempo decorrido: 1565 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 8, 5, 4, 1, 7, 6, 3, 2, 10, 0]
+Menor distância: 36
+tempo decorrido: 1390 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 8, 10, 9, 2, 7, 1, 5, 6, 0]
+Menor distância: 45
+tempo decorrido: 1471 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 7, 5, 10, 8, 1, 9, 3, 6, 0]
+Menor distância: 53
+tempo decorrido: 1527 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 4, 7, 1, 2, 9, 6, 5, 8, 0]
+Menor distância: 50
+tempo decorrido: 1499 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 6, 9, 5, 2, 4, 7, 10, 3, 0]
+Menor distância: 60
+tempo decorrido: 1497 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 8, 2, 1, 4, 10, 5, 7, 9, 0]
+Menor distância: 46
+tempo decorrido: 1441 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 3, 9, 1, 6, 4, 7, 5, 10, 0]
+Menor distância: 63
+tempo decorrido: 1387 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 3, 8, 9, 5, 10, 2, 6, 0]
+Menor distância: 55
+tempo decorrido: 1552 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 9, 10, 5, 6, 1, 2, 7, 4, 0]
+Menor distância: 58
+tempo decorrido: 1537 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 3, 8, 2, 7, 9, 10, 4, 6, 0]
+Menor distância: 33
+tempo decorrido: 1539 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 9, 7, 3, 10, 6, 4, 5, 8, 0]
+Menor distância: 66
+tempo decorrido: 1643 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 6, 4, 8, 9, 10, 2, 1, 7, 0]
+Menor distância: 65
+tempo decorrido: 1584 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 8, 2, 9, 4, 10, 3, 7, 6, 0]
+Menor distância: 51
+tempo decorrido: 1854 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 4, 10, 6, 2, 5, 8, 9, 7, 0]
+Menor distância: 54
+tempo decorrido: 1674 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 10, 1, 9, 7, 8, 4, 3, 6, 0]
+Menor distância: 55
+tempo decorrido: 1965 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 1, 6, 2, 3, 4, 9, 7, 10, 0]
+Menor distância: 59
+tempo decorrido: 1566 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 6, 3, 9, 4, 8, 1, 10, 5, 0]
+Menor distância: 47
+tempo decorrido: 1699 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 5, 4, 2, 1, 8, 6, 10, 7, 0]
+Menor distância: 49
+tempo decorrido: 1657 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 3, 10, 9, 2, 7, 5, 8, 6, 0]
+Menor distância: 57
+tempo decorrido: 1627 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 2, 1, 6, 7, 5, 8, 9, 4, 0]
+Menor distância: 63
+tempo decorrido: 1307 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 3, 4, 8, 5, 6, 9, 2, 10, 0]
+Menor distância: 43
+tempo decorrido: 1651 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 1, 10, 8, 3, 5, 6, 9, 7, 0]
+Menor distância: 39
+tempo decorrido: 1580 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 1, 5, 7, 6, 3, 10, 4, 9, 0]
+Menor distância: 52
+tempo decorrido: 1460 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 7, 8, 6, 10, 4, 9, 3, 5, 0]
+Menor distância: 55
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 4, 6, 8, 9, 10, 2, 3, 7, 0]
+Menor distância: 40
+tempo decorrido: 1344 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 3, 6, 8, 4, 5, 10, 7, 0]
+Menor distância: 55
+tempo decorrido: 1570 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 4, 2, 1, 6, 8, 5, 3, 10, 0]
+Menor distância: 40
+tempo decorrido: 1399 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 2, 8, 10, 9, 3, 7, 1, 6, 0]
+Menor distância: 60
+tempo decorrido: 1364 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 10, 4, 9, 1, 2, 3, 7, 8, 0]
+Menor distância: 61
+tempo decorrido: 1764 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 2, 5, 6, 10, 4, 7, 8, 9, 0]
+Menor distância: 44
+tempo decorrido: 1774 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 6, 7, 10, 9, 8, 4, 3, 0]
+Menor distância: 47
+tempo decorrido: 1729 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 9, 6, 4, 2, 3, 7, 5, 8, 0]
+Menor distância: 44
+tempo decorrido: 1643 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 8, 5, 9, 1, 6, 4, 2, 10, 0]
+Menor distância: 49
+tempo decorrido: 1670 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 2, 7, 9, 6, 5, 4, 1, 10, 0]
+Menor distância: 73
+tempo decorrido: 1465 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 8, 10, 1, 2, 6, 9, 3, 7, 0]
+Menor distância: 63
+tempo decorrido: 1958 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 10, 7, 3, 6, 9, 5, 4, 0]
+Menor distância: 51
+tempo decorrido: 1433 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 3, 7, 6, 8, 4, 9, 1, 10, 0]
+Menor distância: 47
+tempo decorrido: 1384 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 6, 4, 8, 9, 7, 5, 1, 3, 0]
+Menor distância: 62
+tempo decorrido: 1601 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 9, 7, 10, 3, 8, 6, 1, 4, 0]
+Menor distância: 61
+tempo decorrido: 1886 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 4, 2, 3, 5, 6, 10, 9, 8, 0]
+Menor distância: 56
+tempo decorrido: 1657 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 10, 1, 2, 3, 8, 9, 4, 7, 6, 0]
+Menor distância: 65
+tempo decorrido: 1798 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 5, 7, 1, 6, 8, 9, 10, 4, 0]
+Menor distância: 37
+tempo decorrido: 1957 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 2, 6, 8, 9, 5, 4, 7, 3, 0]
+Menor distância: 75
+tempo decorrido: 2027 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 5, 10, 4, 3, 6, 7, 9, 8, 0]
+Menor distância: 42
+tempo decorrido: 1502 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 8, 10, 7, 5, 4, 2, 6, 3, 0]
+Menor distância: 68
+tempo decorrido: 1731 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 2, 8, 1, 5, 10, 7, 6, 9, 0]
+Menor distância: 36
+tempo decorrido: 1659 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 5, 4, 9, 10, 8, 6, 7, 2, 0]
+Menor distância: 66
+tempo decorrido: 1456 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 7, 8, 9, 10, 2, 3, 6, 0]
+Menor distância: 57
+tempo decorrido: 1395 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 7, 10, 5, 9, 8, 2, 4, 3, 0]
+Menor distância: 64
+tempo decorrido: 1618 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 10, 8, 6, 2, 1, 7, 3, 5, 0]
+Menor distância: 64
+tempo decorrido: 1681 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 9, 3, 7, 10, 1, 2, 8, 5, 0]
+Menor distância: 57
+tempo decorrido: 1723 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 4, 3, 6, 8, 10, 5, 7, 0]
+Menor distância: 54
+tempo decorrido: 1716 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 10, 8, 6, 9, 7, 2, 4, 5, 0]
+Menor distância: 72
+tempo decorrido: 1338 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 8, 1, 9, 6, 2, 5, 3, 10, 0]
+Menor distância: 40
+tempo decorrido: 1660 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 9, 1, 2, 8, 5, 4, 10, 7, 0]
+Menor distância: 43
+tempo decorrido: 1490 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 8, 6, 7, 5, 1, 2, 9, 10, 0]
+Menor distância: 48
+tempo decorrido: 1481 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 2, 9, 10, 7, 3, 4, 6, 1, 8, 0]
+Menor distância: 31
+tempo decorrido: 1448 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 6, 8, 1, 2, 7, 5, 9, 10, 0]
+Menor distância: 57
+tempo decorrido: 1365 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 2, 1, 6, 9, 3, 10, 7, 4, 8, 0]
+Menor distância: 52
+tempo decorrido: 1466 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 1, 9, 6, 4, 2, 5, 3, 8, 0]
+Menor distância: 55
+tempo decorrido: 2065 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 1, 4, 7, 6, 10, 9, 5, 8, 0]
+Menor distância: 57
+tempo decorrido: 1587 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 10, 9, 3, 1, 8, 2, 4, 7, 6, 0]
+Menor distância: 59
+tempo decorrido: 1750 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 2, 7, 10, 4, 1, 5, 3, 9, 0]
+Menor distância: 42
+tempo decorrido: 1641 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 7, 8, 1, 4, 5, 3, 10, 9, 0]
+Menor distância: 41
+tempo decorrido: 1659 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 10, 3, 9, 5, 4, 6, 7, 0]
+Menor distância: 66
+tempo decorrido: 1638 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 3, 6, 9, 5, 10, 7, 4, 8, 0]
+Menor distância: 56
+tempo decorrido: 1324 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 7, 1, 3, 10, 5, 6, 9, 8, 0]
+Menor distância: 67
+tempo decorrido: 1730 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 4, 10, 5, 9, 8, 2, 3, 6, 0]
+Menor distância: 46
+tempo decorrido: 1575 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 2, 4, 5, 1, 6, 10, 8, 9, 0]
+Menor distância: 38
+tempo decorrido: 1572 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 4, 3, 2, 8, 9, 1, 10, 7, 0]
+Menor distância: 49
+tempo decorrido: 1975 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 5, 6, 4, 3, 8, 10, 7, 9, 0]
+Menor distância: 38
+tempo decorrido: 1437 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 1, 8, 9, 6, 10, 2, 7, 5, 0]
+Menor distância: 44
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 10, 7, 9, 2, 1, 5, 8, 6, 0]
+Menor distância: 58
+tempo decorrido: 1624 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 5, 3, 7, 2, 9, 10, 6, 0]
+Menor distância: 53
+tempo decorrido: 1789 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 10, 6, 9, 2, 8, 3, 5, 4, 0]
+Menor distância: 61
+tempo decorrido: 1691 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 3, 10, 4, 6, 1, 8, 9, 5, 0]
+Menor distância: 41
+tempo decorrido: 1471 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 1, 7, 3, 8, 9, 2, 6, 10, 0]
+Menor distância: 67
+tempo decorrido: 1684 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 10, 8, 6, 4, 7, 1, 2, 3, 9, 0]
+Menor distância: 66
+tempo decorrido: 1397 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 4, 5, 8, 6, 2, 10, 3, 9, 0]
+Menor distância: 56
+tempo decorrido: 1559 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 2, 4, 5, 7, 8, 3, 6, 9, 0]
+Menor distância: 44
+tempo decorrido: 1914 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 2, 4, 10, 3, 9, 1, 7, 6, 0]
+Menor distância: 50
+tempo decorrido: 2076 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 10, 3, 9, 4, 6, 7, 2, 5, 0]
+Menor distância: 42
+tempo decorrido: 1635 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 6, 9, 5, 3, 1, 4, 7, 10, 0]
+Menor distância: 61
+tempo decorrido: 1426 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 10, 6, 9, 2, 8, 5, 4, 7, 0]
+Menor distância: 74
+tempo decorrido: 1954 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 2, 9, 10, 8, 4, 3, 7, 5, 0]
+Menor distância: 54
+tempo decorrido: 1499 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 10, 6, 8, 7, 9, 3, 5, 2, 0]
+Menor distância: 64
+tempo decorrido: 1486 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 8, 6, 2, 1, 3, 5, 10, 9, 0]
+Menor distância: 57
+tempo decorrido: 1677 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 1, 4, 10, 7, 5, 2, 6, 3, 9, 0]
+Menor distância: 64
+tempo decorrido: 1486 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 10, 6, 9, 4, 1, 7, 8, 5, 0]
+Menor distância: 51
+tempo decorrido: 1795 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 10, 8, 7, 4, 6, 9, 2, 5, 0]
+Menor distância: 66
+tempo decorrido: 1617 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 3, 6, 10, 4, 8, 1, 9, 5, 0]
+Menor distância: 72
+tempo decorrido: 1445 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 3, 4, 9, 2, 10, 5, 7, 6, 0]
+Menor distância: 55
+tempo decorrido: 1356 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 10, 7, 6, 2, 1, 5, 9, 8, 0]
+Menor distância: 51
+tempo decorrido: 1255 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 3, 10, 6, 5, 9, 1, 8, 7, 0]
+Menor distância: 44
+tempo decorrido: 1491 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 2, 9, 4, 1, 3, 7, 8, 10, 0]
+Menor distância: 65
+tempo decorrido: 1604 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 4, 2, 7, 1, 9, 5, 3, 10, 0]
+Menor distância: 54
+tempo decorrido: 1440 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 3, 5, 7, 1, 9, 4, 2, 10, 0]
+Menor distância: 58
+tempo decorrido: 1774 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 4, 2, 1, 6, 8, 7, 9, 10, 0]
+Menor distância: 58
+tempo decorrido: 2083 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 9, 10, 7, 2, 4, 8, 3, 6, 0]
+Menor distância: 74
+tempo decorrido: 1618 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 8, 7, 4, 9, 3, 2, 10, 6, 0]
+Menor distância: 70
+tempo decorrido: 1567 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 10, 8, 9, 2, 1, 7, 5, 4, 0]
+Menor distância: 50
+tempo decorrido: 1345 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 8, 3, 5, 1, 4, 9, 6, 10, 0]
+Menor distância: 48
+tempo decorrido: 1954 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 3, 1, 2, 5, 4, 10, 6, 9, 0]
+Menor distância: 91
+tempo decorrido: 1539 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 1, 2, 9, 7, 6, 3, 4, 10, 0]
+Menor distância: 40
+tempo decorrido: 1535 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 7, 3, 8, 10, 5, 1, 9, 4, 0]
+Menor distância: 50
+tempo decorrido: 1974 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 8, 9, 6, 3, 4, 10, 1, 7, 0]
+Menor distância: 51
+tempo decorrido: 1714 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 4, 2, 1, 10, 7, 6, 9, 8, 0]
+Menor distância: 38
+tempo decorrido: 1456 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 5, 4, 7, 6, 9, 3, 2, 10, 0]
+Menor distância: 63
+tempo decorrido: 1667 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 3, 8, 10, 6, 2, 9, 7, 5, 0]
+Menor distância: 45
+tempo decorrido: 1359 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 1, 4, 8, 7, 9, 2, 10, 6, 0]
+Menor distância: 60
+tempo decorrido: 1623 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 8, 4, 10, 6, 5, 7, 3, 0]
+Menor distância: 54
+tempo decorrido: 1483 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 7, 9, 4, 5, 3, 8, 1, 10, 0]
+Menor distância: 55
+tempo decorrido: 1431 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 6, 5, 9, 2, 8, 7, 1, 10, 0]
+Menor distância: 53
+tempo decorrido: 1347 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 8, 3, 7, 6, 1, 9, 4, 10, 0]
+Menor distância: 69
+tempo decorrido: 1899 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 5, 10, 7, 2, 4, 6, 1, 3, 9, 0]
+Menor distância: 66
+tempo decorrido: 2022 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 6, 3, 1, 9, 7, 4, 5, 10, 0]
+Menor distância: 57
+tempo decorrido: 1349 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 3, 10, 1, 5, 9, 8, 7, 4, 0]
+Menor distância: 68
+tempo decorrido: 1339 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 3, 8, 7, 1, 9, 5, 10, 4, 0]
+Menor distância: 54
+tempo decorrido: 1727 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 2, 9, 4, 5, 3, 8, 10, 6, 0]
+Menor distância: 32
+tempo decorrido: 1662 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 8, 1, 10, 4, 7, 5, 2, 6, 0]
+Menor distância: 48
+tempo decorrido: 1542 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 6, 8, 5, 4, 2, 9, 3, 7, 0]
+Menor distância: 64
+tempo decorrido: 1932 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 2, 5, 6, 7, 4, 8, 9, 10, 0]
+Menor distância: 46
+tempo decorrido: 1609 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 4, 7, 6, 9, 1, 2, 10, 5, 0]
+Menor distância: 43
+tempo decorrido: 1661 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 7, 2, 6, 8, 9, 4, 3, 10, 0]
+Menor distância: 52
+tempo decorrido: 1705 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 4, 7, 1, 2, 3, 5, 9, 8, 0]
+Menor distância: 67
+tempo decorrido: 1591 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 1, 7, 8, 6, 5, 10, 2, 9, 0]
+Menor distância: 49
+tempo decorrido: 1696 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 7, 4, 2, 8, 1, 6, 10, 9, 0]
+Menor distância: 33
+tempo decorrido: 1384 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 7, 6, 9, 3, 2, 5, 8, 10, 0]
+Menor distância: 53
+tempo decorrido: 1424 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 10, 8, 7, 1, 2, 6, 5, 9, 0]
+Menor distância: 35
+tempo decorrido: 1637 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 9, 3, 7, 5, 8, 4, 2, 10, 0]
+Menor distância: 62
+tempo decorrido: 2069 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 6, 8, 1, 2, 3, 10, 7, 9, 0]
+Menor distância: 56
+tempo decorrido: 1621 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 2, 6, 8, 1, 7, 4, 5, 10, 0]
+Menor distância: 48
+tempo decorrido: 1957 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 9, 6, 2, 4, 7, 1, 5, 10, 0]
+Menor distância: 57
+tempo decorrido: 1624 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 7, 2, 3, 10, 8, 5, 1, 9, 0]
+Menor distância: 55
+tempo decorrido: 1488 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 9, 10, 3, 4, 6, 7, 2, 5, 0]
+Menor distância: 36
+tempo decorrido: 1573 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 8, 3, 2, 6, 10, 4, 7, 9, 0]
+Menor distância: 67
+tempo decorrido: 1333 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 5, 9, 2, 7, 8, 1, 6, 4, 0]
+Menor distância: 66
+tempo decorrido: 1547 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 2, 3, 8, 1, 5, 6, 10, 9, 0]
+Menor distância: 61
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 3, 5, 8, 1, 4, 10, 6, 7, 0]
+Menor distância: 53
+tempo decorrido: 1384 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 7, 1, 6, 10, 4, 3, 8, 5, 0]
+Menor distância: 37
+tempo decorrido: 1313 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 5, 8, 3, 6, 10, 4, 2, 9, 0]
+Menor distância: 57
+tempo decorrido: 1220 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 1, 2, 5, 10, 7, 3, 4, 8, 0]
+Menor distância: 64
+tempo decorrido: 1342 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 7, 8, 10, 3, 6, 1, 5, 9, 0]
+Menor distância: 56
+tempo decorrido: 1286 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 7, 5, 6, 2, 10, 9, 1, 4, 0]
+Menor distância: 53
+tempo decorrido: 1260 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 8, 9, 4, 7, 5, 2, 1, 10, 0]
+Menor distância: 49
+tempo decorrido: 1263 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 3, 1, 10, 5, 6, 2, 4, 9, 0]
+Menor distância: 65
+tempo decorrido: 1280 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 8, 4, 5, 9, 7, 3, 6, 10, 0]
+Menor distância: 62
+tempo decorrido: 1393 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 10, 6, 9, 8, 1, 3, 7, 4, 0]
+Menor distância: 55
+tempo decorrido: 1273 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 7, 6, 9, 2, 5, 10, 1, 8, 0]
+Menor distância: 45
+tempo decorrido: 1277 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 9, 5, 6, 10, 1, 3, 7, 8, 0]
+Menor distância: 61
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 3, 5, 2, 4, 9, 1, 7, 10, 0]
+Menor distância: 34
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 3, 8, 4, 1, 10, 7, 9, 5, 0]
+Menor distância: 53
+tempo decorrido: 1237 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 4, 3, 1, 6, 7, 5, 10, 9, 0]
+Menor distância: 64
+tempo decorrido: 1230 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 10, 2, 5, 8, 4, 6, 9, 7, 0]
+Menor distância: 48
+tempo decorrido: 1191 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 7, 1, 8, 4, 6, 5, 2, 10, 0]
+Menor distância: 46
+tempo decorrido: 1280 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 10, 9, 2, 7, 3, 1, 6, 5, 0]
+Menor distância: 36
+tempo decorrido: 1228 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 7, 8, 3, 1, 2, 10, 6, 9, 0]
+Menor distância: 73
+tempo decorrido: 1194 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 9, 7, 1, 3, 8, 10, 5, 6, 0]
+Menor distância: 85
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 4, 2, 5, 1, 10, 3, 7, 6, 9, 0]
+Menor distância: 62
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 2, 3, 9, 10, 8, 1, 7, 6, 0]
+Menor distância: 50
+tempo decorrido: 1179 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 10, 3, 2, 5, 4, 1, 7, 9, 0]
+Menor distância: 28
+tempo decorrido: 1306 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 9, 7, 3, 6, 4, 5, 8, 10, 0]
+Menor distância: 68
+tempo decorrido: 1326 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 4, 3, 7, 8, 5, 2, 9, 6, 0]
+Menor distância: 57
+tempo decorrido: 1210 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 4, 1, 10, 6, 3, 7, 2, 9, 0]
+Menor distância: 59
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 4, 3, 9, 10, 6, 8, 7, 0]
+Menor distância: 54
+tempo decorrido: 1233 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 1, 2, 6, 9, 7, 8, 4, 10, 0]
+Menor distância: 63
+tempo decorrido: 1270 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 3, 9, 8, 5, 4, 7, 6, 2, 0]
+Menor distância: 40
+tempo decorrido: 1223 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 5, 1, 2, 8, 6, 3, 4, 9, 10, 0]
+Menor distância: 42
+tempo decorrido: 1370 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 7, 1, 2, 9, 3, 6, 4, 10, 0]
+Menor distância: 42
+tempo decorrido: 1363 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 1, 5, 8, 9, 6, 7, 2, 10, 0]
+Menor distância: 92
+tempo decorrido: 1171 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 10, 7, 4, 8, 9, 1, 3, 6, 0]
+Menor distância: 67
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 8, 4, 9, 3, 6, 7, 2, 10, 0]
+Menor distância: 44
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 4, 7, 8, 1, 9, 6, 3, 10, 0]
+Menor distância: 41
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 6, 4, 9, 8, 10, 1, 3, 5, 0]
+Menor distância: 40
+tempo decorrido: 1198 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 3, 10, 4, 7, 6, 2, 8, 9, 0]
+Menor distância: 47
+tempo decorrido: 1236 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 8, 9, 6, 3, 5, 2, 1, 10, 0]
+Menor distância: 57
+tempo decorrido: 1340 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 9, 7, 6, 8, 5, 1, 3, 4, 0]
+Menor distância: 63
+tempo decorrido: 1347 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 2, 9, 4, 1, 3, 5, 7, 10, 0]
+Menor distância: 45
+tempo decorrido: 1238 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 5, 8, 2, 7, 6, 3, 4, 0]
+Menor distância: 62
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 2, 6, 8, 3, 10, 7, 5, 9, 0]
+Menor distância: 37
+tempo decorrido: 1248 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 8, 3, 1, 10, 4, 2, 9, 6, 0]
+Menor distância: 43
+tempo decorrido: 1322 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 1, 8, 2, 6, 5, 4, 9, 10, 0]
+Menor distância: 58
+tempo decorrido: 1306 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 8, 7, 4, 1, 3, 10, 5, 9, 0]
+Menor distância: 41
+tempo decorrido: 1256 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 9, 1, 6, 8, 4, 5, 10, 3, 0]
+Menor distância: 38
+tempo decorrido: 1167 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 5, 3, 4, 7, 8, 1, 9, 10, 0]
+Menor distância: 79
+tempo decorrido: 1204 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 6, 8, 1, 9, 5, 4, 10, 3, 0]
+Menor distância: 64
+tempo decorrido: 1332 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 7, 2, 9, 8, 3, 4, 10, 6, 0]
+Menor distância: 66
+tempo decorrido: 1336 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 5, 6, 2, 4, 1, 10, 3, 7, 9, 0]
+Menor distância: 44
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 3, 10, 9, 8, 5, 4, 7, 6, 0]
+Menor distância: 41
+tempo decorrido: 1275 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 4, 1, 2, 6, 3, 5, 8, 9, 0]
+Menor distância: 52
+tempo decorrido: 1349 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 3, 7, 4, 8, 6, 10, 9, 5, 0]
+Menor distância: 54
+tempo decorrido: 1358 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 8, 5, 2, 3, 4, 10, 6, 7, 0]
+Menor distância: 69
+tempo decorrido: 1336 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 2, 5, 10, 3, 8, 9, 7, 4, 0]
+Menor distância: 52
+tempo decorrido: 1240 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 3, 9, 5, 6, 1, 7, 8, 10, 0]
+Menor distância: 54
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 8, 6, 7, 9, 3, 2, 4, 10, 0]
+Menor distância: 54
+tempo decorrido: 1302 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 5, 3, 8, 9, 4, 2, 6, 7, 0]
+Menor distância: 55
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 10, 2, 5, 7, 1, 6, 8, 9, 0]
+Menor distância: 49
+tempo decorrido: 1139 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 1, 8, 4, 6, 3, 9, 5, 7, 0]
+Menor distância: 59
+tempo decorrido: 1161 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 3, 7, 4, 5, 1, 9, 2, 10, 0]
+Menor distância: 73
+tempo decorrido: 1354 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 8, 6, 7, 2, 10, 1, 4, 9, 0]
+Menor distância: 58
+tempo decorrido: 1245 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 3, 6, 5, 7, 10, 2, 8, 9, 0]
+Menor distância: 83
+tempo decorrido: 1265 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 10, 9, 2, 8, 3, 7, 4, 6, 0]
+Menor distância: 60
+tempo decorrido: 1244 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 5, 1, 9, 3, 2, 8, 10, 6, 0]
+Menor distância: 55
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 8, 1, 6, 9, 5, 10, 3, 7, 0]
+Menor distância: 59
+tempo decorrido: 1248 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 8, 6, 2, 4, 10, 9, 5, 7, 0]
+Menor distância: 50
+tempo decorrido: 1364 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 2, 7, 1, 5, 3, 9, 8, 10, 0]
+Menor distância: 42
+tempo decorrido: 1299 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 5, 9, 1, 10, 7, 6, 3, 4, 0]
+Menor distância: 50
+tempo decorrido: 1237 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 2, 5, 9, 3, 1, 7, 6, 8, 0]
+Menor distância: 59
+tempo decorrido: 1270 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 7, 3, 6, 5, 8, 4, 9, 2, 0]
+Menor distância: 55
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 6, 9, 4, 2, 3, 8, 1, 5, 10, 0]
+Menor distância: 88
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 7, 6, 10, 3, 9, 5, 1, 4, 0]
+Menor distância: 72
+tempo decorrido: 1286 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 4, 6, 7, 9, 10, 1, 2, 8, 0]
+Menor distância: 60
+tempo decorrido: 1208 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 3, 2, 4, 7, 5, 8, 10, 9, 0]
+Menor distância: 43
+tempo decorrido: 1281 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 3, 8, 5, 7, 4, 1, 6, 9, 0]
+Menor distância: 66
+tempo decorrido: 1279 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 9, 6, 5, 4, 2, 3, 10, 8, 0]
+Menor distância: 70
+tempo decorrido: 1179 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 7, 4, 9, 5, 3, 6, 2, 0]
+Menor distância: 48
+tempo decorrido: 1183 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 2, 1, 4, 10, 5, 7, 6, 9, 0]
+Menor distância: 58
+tempo decorrido: 1276 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 1, 5, 9, 3, 4, 7, 6, 10, 0]
+Menor distância: 58
+tempo decorrido: 1217 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 2, 6, 5, 3, 1, 9, 4, 10, 0]
+Menor distância: 49
+tempo decorrido: 1378 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 9, 10, 3, 8, 6, 2, 7, 5, 0]
+Menor distância: 58
+tempo decorrido: 1306 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 10, 8, 5, 1, 9, 3, 7, 4, 0]
+Menor distância: 81
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 8, 7, 3, 10, 2, 4, 9, 6, 0]
+Menor distância: 28
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 5, 8, 2, 4, 10, 9, 7, 3, 0]
+Menor distância: 53
+tempo decorrido: 1223 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 1, 10, 7, 2, 3, 6, 4, 8, 0]
+Menor distância: 41
+tempo decorrido: 1278 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 2, 3, 4, 9, 5, 7, 10, 8, 0]
+Menor distância: 34
+tempo decorrido: 1195 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 6, 9, 2, 7, 8, 3, 5, 10, 0]
+Menor distância: 54
+tempo decorrido: 1370 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 10, 2, 1, 9, 6, 7, 4, 8, 0]
+Menor distância: 32
+tempo decorrido: 1222 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 4, 2, 7, 9, 8, 10, 5, 6, 0]
+Menor distância: 76
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 6, 1, 5, 7, 3, 8, 9, 10, 0]
+Menor distância: 56
+tempo decorrido: 1144 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 10, 1, 4, 3, 5, 9, 8, 7, 0]
+Menor distância: 58
+tempo decorrido: 1176 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 9, 10, 5, 6, 2, 3, 7, 0]
+Menor distância: 51
+tempo decorrido: 1305 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 2, 8, 10, 3, 1, 4, 6, 9, 0]
+Menor distância: 48
+tempo decorrido: 1276 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 4, 8, 2, 10, 7, 1, 6, 9, 0]
+Menor distância: 55
+tempo decorrido: 1331 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 5, 1, 10, 7, 3, 6, 2, 9, 0]
+Menor distância: 41
+tempo decorrido: 1310 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 2, 3, 8, 4, 6, 9, 5, 10, 0]
+Menor distância: 66
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 5, 9, 3, 10, 8, 4, 1, 2, 7, 0]
+Menor distância: 49
+tempo decorrido: 1327 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 6, 3, 4, 10, 5, 9, 2, 7, 0]
+Menor distância: 54
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 3, 6, 9, 5, 7, 1, 8, 0]
+Menor distância: 50
+tempo decorrido: 1286 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 4, 10, 1, 8, 2, 7, 5, 9, 0]
+Menor distância: 54
+tempo decorrido: 1248 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 9, 6, 8, 5, 3, 2, 10, 7, 0]
+Menor distância: 53
+tempo decorrido: 1305 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 5, 8, 2, 3, 6, 10, 9, 0]
+Menor distância: 55
+tempo decorrido: 1351 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 5, 1, 9, 2, 4, 10, 6, 8, 0]
+Menor distância: 48
+tempo decorrido: 1253 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 3, 8, 10, 2, 1, 7, 4, 6, 0]
+Menor distância: 68
+tempo decorrido: 1314 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 8, 10, 2, 1, 9, 4, 5, 6, 0]
+Menor distância: 71
+tempo decorrido: 1311 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 4, 6, 3, 5, 2, 8, 9, 10, 0]
+Menor distância: 61
+tempo decorrido: 1419 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 1, 6, 2, 9, 7, 3, 10, 8, 0]
+Menor distância: 67
+tempo decorrido: 1338 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 8, 4, 9, 6, 3, 10, 2, 5, 0]
+Menor distância: 51
+tempo decorrido: 1340 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 3, 10, 1, 5, 4, 7, 2, 9, 0]
+Menor distância: 53
+tempo decorrido: 1252 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 2, 5, 1, 4, 7, 9, 8, 10, 0]
+Menor distância: 59
+tempo decorrido: 1315 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 10, 3, 2, 5, 9, 1, 8, 7, 0]
+Menor distância: 62
+tempo decorrido: 1420 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 9, 8, 10, 3, 7, 2, 6, 0]
+Menor distância: 51
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 6, 4, 3, 8, 7, 9, 5, 10, 0]
+Menor distância: 40
+tempo decorrido: 1339 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 8, 2, 6, 10, 3, 1, 9, 5, 0]
+Menor distância: 49
+tempo decorrido: 1278 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 3, 10, 6, 4, 2, 5, 1, 8, 0]
+Menor distância: 44
+tempo decorrido: 1306 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 8, 6, 2, 10, 9, 7, 5, 4, 0]
+Menor distância: 51
+tempo decorrido: 1280 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 7, 10, 5, 9, 8, 4, 3, 6, 0]
+Menor distância: 46
+tempo decorrido: 1234 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 6, 1, 4, 2, 7, 3, 9, 10, 0]
+Menor distância: 59
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 5, 7, 8, 10, 6, 1, 4, 9, 0]
+Menor distância: 51
+tempo decorrido: 1192 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 1, 9, 10, 7, 5, 2, 6, 8, 0]
+Menor distância: 52
+tempo decorrido: 1308 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 5, 7, 10, 8, 6, 1, 2, 9, 0]
+Menor distância: 37
+tempo decorrido: 1311 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 7, 1, 6, 8, 2, 10, 9, 5, 0]
+Menor distância: 44
+tempo decorrido: 1277 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 2, 4, 3, 6, 9, 5, 7, 8, 0]
+Menor distância: 60
+tempo decorrido: 1286 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 4, 2, 10, 9, 8, 1, 7, 6, 0]
+Menor distância: 49
+tempo decorrido: 1322 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 9, 3, 10, 2, 5, 1, 8, 7, 0]
+Menor distância: 83
+tempo decorrido: 1277 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 7, 5, 10, 1, 3, 2, 6, 9, 0]
+Menor distância: 54
+tempo decorrido: 1328 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 4, 6, 2, 10, 8, 7, 1, 9, 0]
+Menor distância: 47
+tempo decorrido: 1412 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 7, 4, 8, 3, 5, 2, 6, 0]
+Menor distância: 51
+tempo decorrido: 1539 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 9, 5, 6, 3, 1, 8, 7, 0]
+Menor distância: 50
+tempo decorrido: 1464 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 8, 9, 7, 6, 10, 3, 1, 5, 0]
+Menor distância: 44
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 4, 6, 10, 3, 5, 8, 9, 7, 0]
+Menor distância: 52
+tempo decorrido: 1334 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 4, 3, 5, 2, 6, 10, 1, 9, 0]
+Menor distância: 69
+tempo decorrido: 1289 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 1, 5, 10, 8, 4, 3, 6, 9, 0]
+Menor distância: 37
+tempo decorrido: 1240 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 6, 9, 8, 7, 1, 4, 5, 10, 0]
+Menor distância: 46
+tempo decorrido: 1322 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 7, 10, 4, 6, 9, 8, 2, 3, 0]
+Menor distância: 58
+tempo decorrido: 1271 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 5, 3, 6, 10, 7, 2, 1, 8, 0]
+Menor distância: 44
+tempo decorrido: 1264 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 9, 8, 2, 1, 6, 10, 4, 7, 0]
+Menor distância: 65
+tempo decorrido: 1275 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 4, 7, 6, 3, 1, 9, 5, 2, 10, 0]
+Menor distância: 73
+tempo decorrido: 1512 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 7, 8, 2, 9, 10, 6, 5, 4, 0]
+Menor distância: 77
+tempo decorrido: 1413 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 2, 1, 4, 9, 8, 5, 6, 10, 0]
+Menor distância: 52
+tempo decorrido: 1369 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 7, 9, 6, 1, 5, 2, 8, 10, 0]
+Menor distância: 46
+tempo decorrido: 1228 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 1, 2, 8, 3, 10, 4, 7, 9, 0]
+Menor distância: 70
+tempo decorrido: 1398 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 10, 8, 4, 1, 2, 5, 9, 7, 0]
+Menor distância: 49
+tempo decorrido: 1407 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 1, 3, 10, 6, 4, 7, 2, 5, 9, 0]
+Menor distância: 61
+tempo decorrido: 1381 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 9, 2, 4, 6, 8, 1, 7, 10, 0]
+Menor distância: 48
+tempo decorrido: 1296 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 3, 5, 8, 9, 7, 6, 10, 2, 0]
+Menor distância: 68
+tempo decorrido: 1322 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 7, 9, 3, 5, 6, 4, 8, 10, 0]
+Menor distância: 42
+tempo decorrido: 1270 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 5, 6, 2, 9, 7, 1, 10, 8, 0]
+Menor distância: 64
+tempo decorrido: 1337 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 8, 10, 6, 7, 9, 3, 1, 5, 0]
+Menor distância: 53
+tempo decorrido: 1376 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 10, 1, 4, 7, 2, 8, 6, 5, 0]
+Menor distância: 60
+tempo decorrido: 1297 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 10, 8, 7, 5, 3, 6, 9, 4, 0]
+Menor distância: 51
+tempo decorrido: 1295 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 6, 9, 4, 5, 2, 3, 10, 8, 0]
+Menor distância: 37
+tempo decorrido: 1319 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 1, 3, 5, 10, 8, 6, 4, 2, 9, 0]
+Menor distância: 65
+tempo decorrido: 1324 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 3, 6, 7, 9, 1, 2, 8, 5, 0]
+Menor distância: 35
+tempo decorrido: 1362 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 9, 5, 7, 4, 8, 3, 10, 6, 0]
+Menor distância: 53
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 7, 2, 9, 3, 6, 8, 4, 5, 0]
+Menor distância: 50
+tempo decorrido: 1333 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 4, 10, 3, 6, 2, 7, 5, 1, 9, 0]
+Menor distância: 73
+tempo decorrido: 1194 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 10, 7, 6, 1, 3, 4, 5, 9, 0]
+Menor distância: 58
+tempo decorrido: 1281 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 10, 1, 5, 7, 8, 9, 4, 6, 0]
+Menor distância: 62
+tempo decorrido: 1276 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 2, 7, 8, 6, 1, 10, 4, 9, 0]
+Menor distância: 57
+tempo decorrido: 1331 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 2, 4, 1, 9, 3, 7, 5, 10, 0]
+Menor distância: 62
+tempo decorrido: 1230 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 8, 4, 10, 2, 5, 7, 1, 9, 0]
+Menor distância: 45
+tempo decorrido: 1405 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 10, 3, 4, 7, 1, 5, 9, 8, 0]
+Menor distância: 53
+tempo decorrido: 1201 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 5, 8, 4, 2, 7, 6, 1, 9, 0]
+Menor distância: 65
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 6, 1, 4, 7, 10, 8, 5, 9, 0]
+Menor distância: 49
+tempo decorrido: 1242 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 8, 1, 3, 10, 5, 9, 4, 7, 0]
+Menor distância: 60
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 9, 4, 5, 6, 1, 7, 2, 10, 0]
+Menor distância: 60
+tempo decorrido: 1281 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 9, 10, 2, 8, 6, 1, 5, 7, 0]
+Menor distância: 48
+tempo decorrido: 1235 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 3, 6, 8, 4, 5, 9, 10, 7, 0]
+Menor distância: 33
+tempo decorrido: 1141 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 4, 6, 3, 1, 8, 10, 2, 9, 0]
+Menor distância: 41
+tempo decorrido: 1240 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 1, 5, 3, 2, 6, 10, 4, 8, 9, 0]
+Menor distância: 48
+tempo decorrido: 1376 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 5, 7, 10, 2, 6, 3, 1, 9, 0]
+Menor distância: 66
+tempo decorrido: 1428 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 10, 6, 7, 3, 2, 5, 4, 1, 9, 0]
+Menor distância: 51
+tempo decorrido: 1305 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 9, 4, 3, 10, 2, 8, 7, 6, 0]
+Menor distância: 54
+tempo decorrido: 1285 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 5, 8, 7, 4, 2, 6, 3, 9, 0]
+Menor distância: 75
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 9, 10, 1, 4, 8, 5, 6, 7, 0]
+Menor distância: 44
+tempo decorrido: 1223 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 10, 7, 2, 5, 4, 9, 1, 8, 0]
+Menor distância: 60
+tempo decorrido: 1329 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 4, 2, 9, 7, 1, 5, 6, 3, 10, 0]
+Menor distância: 59
+tempo decorrido: 1246 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 5, 3, 4, 2, 8, 10, 1, 9, 7, 0]
+Menor distância: 66
+tempo decorrido: 1225 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 4, 3, 7, 9, 6, 10, 8, 0]
+Menor distância: 52
+tempo decorrido: 1296 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 5, 4, 8, 10, 6, 3, 1, 7, 0]
+Menor distância: 38
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 8, 9, 3, 2, 10, 6, 5, 7, 0]
+Menor distância: 89
+tempo decorrido: 1217 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 8, 6, 1, 3, 9, 10, 5, 7, 0]
+Menor distância: 56
+tempo decorrido: 1212 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 10, 9, 6, 3, 4, 2, 7, 1, 8, 0]
+Menor distância: 48
+tempo decorrido: 1279 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 7, 9, 2, 6, 4, 8, 5, 10, 0]
+Menor distância: 34
+tempo decorrido: 1274 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 4, 10, 8, 2, 6, 3, 7, 5, 0]
+Menor distância: 51
+tempo decorrido: 1577 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 10, 1, 7, 4, 8, 5, 3, 6, 0]
+Menor distância: 62
+tempo decorrido: 1288 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 7, 2, 6, 4, 3, 5, 9, 0]
+Menor distância: 59
+tempo decorrido: 1316 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 10, 6, 9, 3, 5, 8, 4, 7, 0]
+Menor distância: 75
+tempo decorrido: 1319 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 1, 2, 8, 9, 6, 5, 7, 4, 0]
+Menor distância: 42
+tempo decorrido: 1275 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 9, 10, 2, 4, 6, 1, 7, 8, 0]
+Menor distância: 54
+tempo decorrido: 1741 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 5, 1, 8, 6, 3, 2, 10, 4, 9, 0]
+Menor distância: 42
+tempo decorrido: 1551 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 1, 2, 9, 5, 3, 7, 10, 6, 0]
+Menor distância: 54
+tempo decorrido: 1221 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 10, 4, 7, 1, 6, 5, 2, 9, 0]
+Menor distância: 51
+tempo decorrido: 1348 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 8, 10, 1, 2, 9, 6, 7, 5, 0]
+Menor distância: 30
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 1, 4, 10, 2, 6, 5, 3, 8, 9, 0]
+Menor distância: 40
+tempo decorrido: 1278 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 10, 1, 6, 2, 9, 3, 7, 8, 0]
+Menor distância: 69
+tempo decorrido: 1352 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 10, 9, 3, 7, 2, 5, 6, 8, 0]
+Menor distância: 54
+tempo decorrido: 1301 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 9, 3, 7, 8, 1, 2, 6, 10, 0]
+Menor distância: 37
+tempo decorrido: 1232 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 8, 7, 6, 5, 1, 3, 9, 0]
+Menor distância: 63
+tempo decorrido: 1209 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 4, 7, 5, 1, 3, 9, 8, 10, 0]
+Menor distância: 84
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 4, 8, 1, 10, 6, 5, 3, 9, 0]
+Menor distância: 46
+tempo decorrido: 1301 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 2, 6, 4, 10, 5, 1, 7, 9, 0]
+Menor distância: 65
+tempo decorrido: 1192 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 7, 4, 5, 3, 6, 2, 8, 0]
+Menor distância: 47
+tempo decorrido: 1331 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 5, 3, 4, 6, 1, 2, 10, 9, 0]
+Menor distância: 55
+tempo decorrido: 1252 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 8, 9, 7, 4, 5, 3, 6, 10, 0]
+Menor distância: 53
+tempo decorrido: 1295 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 7, 1, 3, 10, 2, 5, 4, 8, 9, 0]
+Menor distância: 77
+tempo decorrido: 1206 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 7, 1, 3, 8, 6, 9, 5, 0]
+Menor distância: 35
+tempo decorrido: 1206 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 10, 2, 6, 8, 1, 9, 4, 7, 0]
+Menor distância: 36
+tempo decorrido: 1199 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 5, 6, 9, 7, 4, 2, 10, 8, 0]
+Menor distância: 62
+tempo decorrido: 1247 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 6, 4, 3, 9, 2, 10, 5, 8, 0]
+Menor distância: 43
+tempo decorrido: 1235 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 6, 8, 4, 2, 1, 5, 9, 3, 10, 0]
+Menor distância: 55
+tempo decorrido: 1360 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 2, 8, 1, 7, 5, 10, 9, 6, 0]
+Menor distância: 43
+tempo decorrido: 1339 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 4, 6, 8, 9, 2, 1, 5, 7, 0]
+Menor distância: 40
+tempo decorrido: 1283 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 10, 5, 9, 3, 8, 6, 1, 7, 0]
+Menor distância: 39
+tempo decorrido: 1174 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 1, 3, 5, 4, 6, 2, 10, 9, 8, 0]
+Menor distância: 76
+tempo decorrido: 1235 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 7, 8, 5, 1, 10, 3, 4, 9, 0]
+Menor distância: 55
+tempo decorrido: 1379 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 1, 10, 2, 3, 8, 4, 5, 7, 0]
+Menor distância: 32
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 9, 7, 1, 3, 2, 6, 10, 5, 0]
+Menor distância: 55
+tempo decorrido: 1256 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 8, 1, 5, 9, 7, 2, 10, 6, 0]
+Menor distância: 49
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 5, 1, 4, 10, 7, 2, 3, 6, 9, 0]
+Menor distância: 41
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 9, 7, 2, 6, 1, 3, 8, 10, 0]
+Menor distância: 57
+tempo decorrido: 1180 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 9, 8, 7, 4, 5, 10, 2, 6, 0]
+Menor distância: 35
+tempo decorrido: 1191 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 9, 2, 8, 5, 4, 3, 10, 7, 0]
+Menor distância: 50
+tempo decorrido: 1339 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 7, 9, 6, 10, 2, 8, 4, 5, 0]
+Menor distância: 54
+tempo decorrido: 1201 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 8, 6, 5, 4, 10, 2, 9, 3, 0]
+Menor distância: 64
+tempo decorrido: 1188 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 4, 10, 9, 5, 7, 2, 1, 8, 0]
+Menor distância: 35
+tempo decorrido: 1210 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 6, 4, 3, 9, 7, 10, 8, 5, 0]
+Menor distância: 55
+tempo decorrido: 1292 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 1, 2, 4, 5, 3, 10, 7, 6, 9, 0]
+Menor distância: 53
+tempo decorrido: 1193 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 6, 5, 7, 3, 1, 9, 8, 0]
+Menor distância: 61
+tempo decorrido: 1274 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 10, 3, 9, 5, 6, 4, 7, 2, 0]
+Menor distância: 58
+tempo decorrido: 1292 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 10, 7, 5, 3, 4, 6, 9, 0]
+Menor distância: 63
+tempo decorrido: 1265 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 2, 8, 5, 7, 6, 9, 3, 10, 0]
+Menor distância: 54
+tempo decorrido: 1344 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 7, 10, 9, 4, 8, 1, 5, 3, 0]
+Menor distância: 49
+tempo decorrido: 1244 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 10, 4, 7, 2, 5, 6, 1, 8, 0]
+Menor distância: 43
+tempo decorrido: 1326 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 10, 3, 1, 8, 5, 9, 2, 6, 0]
+Menor distância: 49
+tempo decorrido: 1318 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 10, 1, 8, 4, 9, 5, 2, 7, 0]
+Menor distância: 69
+tempo decorrido: 1308 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 4, 10, 8, 5, 6, 2, 7, 3, 0]
+Menor distância: 59
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 9, 10, 6, 7, 2, 3, 1, 8, 0]
+Menor distância: 42
+tempo decorrido: 1255 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 7, 5, 3, 1, 10, 6, 2, 8, 0]
+Menor distância: 58
+tempo decorrido: 1324 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 5, 9, 1, 3, 2, 7, 4, 10, 0]
+Menor distância: 53
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 4, 6, 5, 8, 9, 3, 1, 7, 0]
+Menor distância: 42
+tempo decorrido: 1149 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 3, 5, 10, 7, 1, 9, 6, 4, 0]
+Menor distância: 65
+tempo decorrido: 1254 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 10, 8, 4, 5, 7, 1, 6, 3, 0]
+Menor distância: 28
+tempo decorrido: 1295 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 10, 1, 4, 2, 5, 6, 9, 8, 0]
+Menor distância: 46
+tempo decorrido: 1139 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 9, 6, 2, 1, 3, 7, 8, 10, 0]
+Menor distância: 65
+tempo decorrido: 1258 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 3, 5, 7, 2, 4, 10, 8, 9, 0]
+Menor distância: 65
+tempo decorrido: 1333 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 3, 1, 9, 6, 7, 8, 5, 4, 0]
+Menor distância: 72
+tempo decorrido: 1213 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 10, 7, 4, 6, 3, 1, 2, 9, 8, 0]
+Menor distância: 78
+tempo decorrido: 1203 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 6, 4, 9, 8, 7, 10, 3, 2, 0]
+Menor distância: 45
+tempo decorrido: 1264 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 4, 5, 9, 3, 6, 7, 2, 8, 0]
+Menor distância: 50
+tempo decorrido: 1263 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 4, 8, 3, 6, 1, 5, 10, 7, 0]
+Menor distância: 62
+tempo decorrido: 1289 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 9, 6, 5, 7, 4, 1, 2, 3, 10, 0]
+Menor distância: 80
+tempo decorrido: 1274 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 7, 5, 2, 10, 6, 3, 1, 8, 0]
+Menor distância: 61
+tempo decorrido: 1184 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 6, 10, 9, 4, 2, 3, 8, 7, 0]
+Menor distância: 46
+tempo decorrido: 1260 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 6, 10, 3, 1, 8, 9, 2, 7, 0]
+Menor distância: 58
+tempo decorrido: 1225 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 6, 3, 2, 4, 7, 8, 10, 9, 0]
+Menor distância: 83
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 7, 8, 5, 1, 3, 4, 6, 9, 0]
+Menor distância: 49
+tempo decorrido: 1336 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 9, 2, 3, 7, 5, 8, 10, 4, 0]
+Menor distância: 74
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 7, 10, 3, 1, 8, 5, 9, 4, 0]
+Menor distância: 49
+tempo decorrido: 1281 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 2, 8, 4, 9, 6, 1, 7, 5, 0]
+Menor distância: 39
+tempo decorrido: 1261 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 10, 6, 4, 1, 3, 2, 8, 7, 0]
+Menor distância: 60
+tempo decorrido: 1252 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 6, 1, 2, 10, 4, 8, 5, 9, 0]
+Menor distância: 32
+tempo decorrido: 1263 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 8, 1, 5, 9, 10, 4, 3, 7, 0]
+Menor distância: 39
+tempo decorrido: 1271 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 8, 3, 1, 2, 5, 10, 6, 9, 0]
+Menor distância: 34
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 3, 5, 9, 6, 2, 7, 1, 8, 0]
+Menor distância: 30
+tempo decorrido: 1400 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 7, 1, 10, 6, 5, 9, 3, 8, 0]
+Menor distância: 25
+tempo decorrido: 1339 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 4, 3, 8, 7, 5, 10, 6, 9, 0]
+Menor distância: 65
+tempo decorrido: 1297 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 3, 5, 4, 1, 8, 2, 6, 10, 0]
+Menor distância: 42
+tempo decorrido: 1243 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 8, 6, 4, 1, 5, 2, 3, 7, 10, 0]
+Menor distância: 51
+tempo decorrido: 1230 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 5, 3, 9, 4, 7, 6, 10, 2, 0]
+Menor distância: 60
+tempo decorrido: 1260 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 8, 9, 1, 6, 4, 2, 5, 10, 0]
+Menor distância: 52
+tempo decorrido: 1374 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 2, 7, 5, 1, 8, 4, 3, 6, 10, 0]
+Menor distância: 51
+tempo decorrido: 1189 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 2, 1, 9, 7, 4, 8, 5, 10, 0]
+Menor distância: 37
+tempo decorrido: 1307 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 10, 1, 5, 3, 4, 8, 7, 9, 0]
+Menor distância: 62
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 3, 8, 7, 4, 6, 1, 2, 5, 10, 0]
+Menor distância: 56
+tempo decorrido: 1197 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 7, 3, 9, 8, 10, 2, 5, 6, 0]
+Menor distância: 52
+tempo decorrido: 1174 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 8, 9, 7, 10, 2, 3, 6, 0]
+Menor distância: 65
+tempo decorrido: 1171 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 4, 5, 3, 2, 7, 9, 10, 8, 0]
+Menor distância: 30
+tempo decorrido: 1313 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 7, 5, 2, 6, 8, 4, 9, 10, 0]
+Menor distância: 60
+tempo decorrido: 1271 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 7, 6, 5, 2, 10, 9, 3, 0]
+Menor distância: 71
+tempo decorrido: 1285 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 3, 4, 9, 6, 7, 10, 8, 5, 0]
+Menor distância: 44
+tempo decorrido: 1206 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 2, 3, 5, 6, 8, 9, 10, 7, 0]
+Menor distância: 48
+tempo decorrido: 1332 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 1, 7, 5, 6, 10, 4, 3, 9, 0]
+Menor distância: 62
+tempo decorrido: 1278 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 8, 6, 10, 7, 4, 5, 9, 3, 0]
+Menor distância: 57
+tempo decorrido: 1217 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 2, 8, 3, 1, 9, 5, 10, 7, 0]
+Menor distância: 85
+tempo decorrido: 1261 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 2, 7, 1, 9, 3, 4, 8, 10, 0]
+Menor distância: 56
+tempo decorrido: 1203 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 3, 4, 5, 6, 9, 10, 7, 8, 0]
+Menor distância: 53
+tempo decorrido: 1244 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 7, 9, 3, 2, 10, 5, 6, 8, 0]
+Menor distância: 46
+tempo decorrido: 1265 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 1, 6, 3, 4, 2, 5, 10, 9, 0]
+Menor distância: 46
+tempo decorrido: 1283 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 9, 10, 7, 5, 1, 8, 2, 4, 0]
+Menor distância: 44
+tempo decorrido: 1264 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 8, 7, 3, 6, 1, 5, 9, 0]
+Menor distância: 51
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 8, 2, 1, 3, 7, 5, 4, 6, 10, 0]
+Menor distância: 58
+tempo decorrido: 1209 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 6, 5, 7, 9, 10, 1, 4, 8, 0]
+Menor distância: 34
+tempo decorrido: 1283 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 2, 3, 7, 9, 5, 6, 8, 10, 0]
+Menor distância: 74
+tempo decorrido: 1256 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 10, 5, 9, 4, 2, 8, 6, 3, 0]
+Menor distância: 40
+tempo decorrido: 1283 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 5, 3, 6, 1, 2, 7, 4, 10, 9, 0]
+Menor distância: 41
+tempo decorrido: 1243 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 2, 9, 7, 3, 1, 8, 10, 5, 0]
+Menor distância: 32
+tempo decorrido: 1298 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 1, 7, 4, 8, 6, 5, 10, 9, 0]
+Menor distância: 30
+tempo decorrido: 1321 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 5, 3, 2, 4, 10, 7, 8, 9, 0]
+Menor distância: 34
+tempo decorrido: 1240 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 9, 5, 6, 3, 7, 4, 2, 10, 0]
+Menor distância: 62
+tempo decorrido: 1270 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 6, 5, 10, 2, 1, 3, 4, 9, 0]
+Menor distância: 54
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 1, 4, 9, 3, 8, 6, 5, 10, 0]
+Menor distância: 37
+tempo decorrido: 1212 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 5, 1, 3, 4, 7, 10, 8, 9, 0]
+Menor distância: 65
+tempo decorrido: 1217 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 7, 1, 5, 2, 10, 3, 4, 9, 0]
+Menor distância: 47
+tempo decorrido: 1199 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 3, 2, 9, 6, 5, 10, 8, 7, 0]
+Menor distância: 49
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 5, 1, 9, 4, 2, 3, 8, 7, 0]
+Menor distância: 45
+tempo decorrido: 1254 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 1, 6, 7, 8, 3, 10, 4, 9, 0]
+Menor distância: 56
+tempo decorrido: 1229 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 3, 8, 5, 4, 2, 7, 9, 10, 0]
+Menor distância: 40
+tempo decorrido: 1288 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 6, 4, 1, 5, 8, 3, 2, 10, 9, 0]
+Menor distância: 54
+tempo decorrido: 1231 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 1, 5, 2, 4, 9, 6, 3, 10, 8, 0]
+Menor distância: 52
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 5, 1, 7, 10, 2, 4, 9, 3, 8, 0]
+Menor distância: 55
+tempo decorrido: 1217 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 7, 2, 6, 9, 3, 4, 10, 5, 0]
+Menor distância: 77
+tempo decorrido: 1272 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 9, 1, 6, 8, 5, 3, 7, 0]
+Menor distância: 57
+tempo decorrido: 1179 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 9, 5, 1, 6, 10, 4, 2, 8, 0]
+Menor distância: 73
+tempo decorrido: 1322 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 2, 3, 4, 1, 10, 9, 8, 6, 0]
+Menor distância: 58
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 9, 7, 10, 2, 5, 6, 3, 0]
+Menor distância: 60
+tempo decorrido: 1216 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 2, 3, 6, 4, 5, 8, 1, 10, 0]
+Menor distância: 51
+tempo decorrido: 1212 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 7, 1, 9, 5, 6, 10, 3, 8, 0]
+Menor distância: 48
+tempo decorrido: 1214 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 5, 9, 4, 1, 10, 6, 8, 3, 0]
+Menor distância: 72
+tempo decorrido: 1212 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 9, 6, 2, 10, 3, 4, 8, 7, 0]
+Menor distância: 58
+tempo decorrido: 1218 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 6, 9, 1, 10, 5, 4, 3, 8, 0]
+Menor distância: 48
+tempo decorrido: 1329 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 3, 7, 6, 2, 9, 5, 4, 0]
+Menor distância: 71
+tempo decorrido: 1261 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 10, 9, 3, 4, 7, 2, 8, 6, 0]
+Menor distância: 44
+tempo decorrido: 1256 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 4, 10, 1, 3, 5, 6, 9, 7, 0]
+Menor distância: 74
+tempo decorrido: 1235 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 4, 9, 6, 7, 1, 10, 2, 8, 0]
+Menor distância: 56
+tempo decorrido: 1236 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 7, 8, 3, 2, 6, 9, 1, 10, 0]
+Menor distância: 60
+tempo decorrido: 1258 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 10, 3, 4, 6, 7, 5, 8, 0]
+Menor distância: 59
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 5, 2, 3, 8, 6, 10, 9, 0]
+Menor distância: 57
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 6, 5, 10, 9, 1, 8, 7, 4, 0]
+Menor distância: 88
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 6, 3, 5, 7, 2, 10, 9, 0]
+Menor distância: 60
+tempo decorrido: 1278 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 4, 7, 8, 10, 2, 1, 9, 6, 0]
+Menor distância: 74
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 7, 5, 3, 8, 4, 2, 6, 0]
+Menor distância: 58
+tempo decorrido: 1164 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 8, 3, 6, 10, 9, 5, 1, 7, 0]
+Menor distância: 61
+tempo decorrido: 1286 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 1, 3, 6, 8, 7, 10, 2, 5, 0]
+Menor distância: 46
+tempo decorrido: 1366 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 6, 2, 8, 1, 3, 4, 10, 9, 0]
+Menor distância: 50
+tempo decorrido: 1229 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 6, 5, 2, 8, 7, 4, 10, 3, 0]
+Menor distância: 59
+tempo decorrido: 1273 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 2, 1, 9, 8, 7, 4, 5, 10, 0]
+Menor distância: 46
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 1, 6, 8, 7, 10, 9, 5, 4, 0]
+Menor distância: 79
+tempo decorrido: 1245 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 4, 5, 1, 6, 3, 10, 8, 9, 0]
+Menor distância: 58
+tempo decorrido: 1296 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 8, 7, 4, 5, 1, 6, 2, 10, 0]
+Menor distância: 43
+tempo decorrido: 1274 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 6, 7, 1, 2, 5, 8, 4, 10, 0]
+Menor distância: 49
+tempo decorrido: 1253 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 6, 10, 9, 3, 7, 8, 2, 0]
+Menor distância: 41
+tempo decorrido: 1225 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 1, 9, 3, 2, 10, 5, 8, 7, 0]
+Menor distância: 62
+tempo decorrido: 1370 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 10, 1, 8, 6, 3, 2, 9, 7, 0]
+Menor distância: 47
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 9, 2, 10, 5, 7, 8, 3, 6, 0]
+Menor distância: 62
+tempo decorrido: 1291 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 8, 10, 4, 6, 3, 1, 5, 9, 0]
+Menor distância: 75
+tempo decorrido: 1236 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 10, 6, 7, 8, 5, 3, 4, 0]
+Menor distância: 58
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 7, 1, 8, 9, 5, 6, 3, 10, 0]
+Menor distância: 52
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 2, 1, 7, 3, 9, 6, 8, 10, 0]
+Menor distância: 48
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 7, 10, 6, 5, 3, 4, 9, 0]
+Menor distância: 61
+tempo decorrido: 1285 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 6, 3, 1, 2, 7, 10, 4, 8, 0]
+Menor distância: 56
+tempo decorrido: 1187 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 1, 3, 4, 10, 9, 7, 6, 8, 0]
+Menor distância: 55
+tempo decorrido: 1239 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 6, 2, 7, 9, 3, 10, 5, 4, 0]
+Menor distância: 46
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 7, 2, 10, 1, 8, 9, 3, 6, 0]
+Menor distância: 53
+tempo decorrido: 1415 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 3, 10, 9, 1, 6, 2, 7, 8, 0]
+Menor distância: 72
+tempo decorrido: 1234 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 4, 6, 10, 5, 7, 3, 1, 8, 0]
+Menor distância: 56
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 10, 1, 5, 7, 6, 2, 4, 8, 0]
+Menor distância: 52
+tempo decorrido: 1219 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 10, 5, 9, 3, 6, 4, 7, 0]
+Menor distância: 43
+tempo decorrido: 1255 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 5, 2, 1, 6, 8, 9, 10, 7, 0]
+Menor distância: 75
+tempo decorrido: 1196 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 3, 5, 7, 8, 9, 1, 6, 0]
+Menor distância: 48
+tempo decorrido: 1226 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 2, 8, 5, 1, 10, 7, 9, 6, 0]
+Menor distância: 52
+tempo decorrido: 1206 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 1, 9, 3, 8, 2, 5, 10, 7, 0]
+Menor distância: 40
+tempo decorrido: 1256 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 6, 1, 5, 7, 4, 10, 8, 9, 0]
+Menor distância: 47
+tempo decorrido: 1302 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 9, 4, 2, 3, 8, 6, 10, 7, 0]
+Menor distância: 53
+tempo decorrido: 1277 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 6, 2, 8, 4, 1, 9, 5, 7, 0]
+Menor distância: 39
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 4, 6, 9, 7, 5, 8, 1, 10, 0]
+Menor distância: 46
+tempo decorrido: 1363 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 4, 8, 6, 3, 10, 9, 7, 2, 0]
+Menor distância: 36
+tempo decorrido: 1203 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 6, 9, 1, 3, 8, 2, 4, 10, 0]
+Menor distância: 40
+tempo decorrido: 1265 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 4, 9, 10, 8, 7, 1, 2, 6, 0]
+Menor distância: 69
+tempo decorrido: 1291 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 2, 8, 10, 3, 9, 6, 7, 0]
+Menor distância: 78
+tempo decorrido: 1261 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 9, 4, 10, 5, 3, 6, 8, 2, 0]
+Menor distância: 87
+tempo decorrido: 1327 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 2, 1, 9, 5, 8, 7, 3, 6, 0]
+Menor distância: 54
+tempo decorrido: 1325 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 2, 9, 8, 10, 1, 3, 5, 7, 0]
+Menor distância: 50
+tempo decorrido: 1220 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 3, 10, 4, 7, 8, 9, 1, 5, 0]
+Menor distância: 55
+tempo decorrido: 1338 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 10, 7, 2, 5, 9, 1, 4, 8, 0]
+Menor distância: 36
+tempo decorrido: 1245 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 3, 1, 7, 9, 5, 6, 10, 8, 0]
+Menor distância: 82
+tempo decorrido: 1233 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 10, 6, 2, 7, 8, 4, 3, 9, 0]
+Menor distância: 43
+tempo decorrido: 1263 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 9, 3, 5, 7, 10, 2, 6, 4, 0]
+Menor distância: 37
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 8, 1, 9, 5, 6, 7, 10, 3, 0]
+Menor distância: 49
+tempo decorrido: 1317 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 10, 9, 1, 8, 4, 7, 2, 6, 0]
+Menor distância: 57
+tempo decorrido: 1221 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 3, 6, 4, 5, 10, 9, 1, 7, 0]
+Menor distância: 71
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 3, 6, 4, 7, 9, 5, 10, 0]
+Menor distância: 41
+tempo decorrido: 1304 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 5, 8, 1, 3, 4, 6, 9, 10, 0]
+Menor distância: 50
+tempo decorrido: 1202 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 1, 5, 6, 9, 7, 10, 3, 8, 0]
+Menor distância: 34
+tempo decorrido: 1320 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 6, 7, 3, 2, 9, 5, 4, 0]
+Menor distância: 37
+tempo decorrido: 1313 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 7, 3, 10, 4, 2, 8, 9, 6, 0]
+Menor distância: 61
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 2, 1, 7, 4, 10, 6, 9, 8, 0]
+Menor distância: 68
+tempo decorrido: 1198 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 10, 5, 9, 2, 3, 4, 8, 6, 0]
+Menor distância: 53
+tempo decorrido: 1218 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 6, 9, 5, 7, 1, 10, 4, 3, 0]
+Menor distância: 23
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 1, 6, 5, 4, 8, 7, 10, 3, 0]
+Menor distância: 45
+tempo decorrido: 1353 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 8, 6, 2, 10, 4, 5, 7, 9, 0]
+Menor distância: 49
+tempo decorrido: 1347 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 2, 6, 10, 7, 1, 9, 5, 8, 0]
+Menor distância: 51
+tempo decorrido: 1154 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 6, 3, 7, 8, 1, 9, 10, 5, 0]
+Menor distância: 42
+tempo decorrido: 1357 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 5, 1, 7, 8, 6, 3, 10, 9, 0]
+Menor distância: 71
+tempo decorrido: 1237 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 10, 8, 2, 9, 5, 7, 1, 4, 0]
+Menor distância: 51
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 5, 10, 6, 9, 2, 3, 7, 4, 0]
+Menor distância: 39
+tempo decorrido: 1248 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 4, 8, 2, 10, 6, 9, 7, 5, 0]
+Menor distância: 52
+tempo decorrido: 1212 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 8, 7, 5, 1, 9, 3, 6, 10, 0]
+Menor distância: 56
+tempo decorrido: 1348 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 5, 7, 3, 10, 9, 1, 4, 8, 0]
+Menor distância: 37
+tempo decorrido: 1275 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 1, 8, 7, 4, 6, 5, 3, 9, 0]
+Menor distância: 30
+tempo decorrido: 1354 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 10, 9, 6, 7, 8, 4, 1, 5, 0]
+Menor distância: 46
+tempo decorrido: 1301 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 2, 6, 7, 5, 9, 8, 3, 10, 0]
+Menor distância: 57
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 6, 9, 10, 5, 7, 1, 4, 8, 0]
+Menor distância: 66
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 10, 3, 1, 7, 4, 8, 9, 2, 6, 0]
+Menor distância: 48
+tempo decorrido: 1245 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 5, 4, 1, 10, 8, 2, 6, 9, 0]
+Menor distância: 70
+tempo decorrido: 1270 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 1, 5, 4, 9, 8, 3, 6, 10, 0]
+Menor distância: 69
+tempo decorrido: 1197 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 10, 6, 4, 8, 7, 5, 1, 9, 0]
+Menor distância: 46
+tempo decorrido: 1185 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 3, 10, 8, 5, 1, 4, 9, 7, 0]
+Menor distância: 44
+tempo decorrido: 1271 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 4, 6, 9, 8, 5, 10, 1, 7, 0]
+Menor distância: 36
+tempo decorrido: 1473 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 7, 3, 5, 2, 10, 8, 9, 4, 0]
+Menor distância: 53
+tempo decorrido: 1210 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 6, 2, 5, 4, 1, 7, 9, 10, 0]
+Menor distância: 33
+tempo decorrido: 1296 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 5, 9, 6, 7, 1, 4, 8, 10, 0]
+Menor distância: 78
+tempo decorrido: 1441 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 1, 10, 4, 6, 7, 8, 5, 3, 0]
+Menor distância: 52
+tempo decorrido: 1276 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 8, 9, 6, 7, 2, 5, 4, 10, 0]
+Menor distância: 62
+tempo decorrido: 1317 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 2, 1, 7, 9, 4, 5, 3, 8, 0]
+Menor distância: 38
+tempo decorrido: 1299 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 4, 9, 7, 3, 2, 10, 8, 6, 0]
+Menor distância: 40
+tempo decorrido: 1154 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 10, 8, 9, 7, 2, 6, 4, 5, 0]
+Menor distância: 57
+tempo decorrido: 1225 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 10, 6, 7, 9, 8, 3, 4, 5, 0]
+Menor distância: 50
+tempo decorrido: 1208 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 5, 4, 10, 9, 3, 1, 8, 7, 0]
+Menor distância: 57
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 7, 10, 9, 4, 6, 1, 8, 3, 0]
+Menor distância: 52
+tempo decorrido: 1354 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 5, 3, 9, 8, 7, 1, 2, 10, 0]
+Menor distância: 47
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 4, 1, 2, 9, 3, 7, 5, 10, 0]
+Menor distância: 75
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 8, 6, 1, 9, 3, 7, 2, 5, 0]
+Menor distância: 52
+tempo decorrido: 1180 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 6, 3, 10, 4, 7, 1, 5, 9, 0]
+Menor distância: 57
+tempo decorrido: 1244 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 6, 4, 1, 10, 5, 7, 2, 9, 0]
+Menor distância: 56
+tempo decorrido: 1273 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 2, 10, 4, 1, 6, 3, 5, 9, 0]
+Menor distância: 48
+tempo decorrido: 1413 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 5, 7, 2, 4, 8, 6, 10, 3, 0]
+Menor distância: 51
+tempo decorrido: 1226 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 3, 9, 5, 1, 6, 4, 10, 8, 0]
+Menor distância: 46
+tempo decorrido: 1429 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 3, 2, 5, 8, 10, 9, 6, 7, 0]
+Menor distância: 51
+tempo decorrido: 1228 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 6, 2, 8, 5, 7, 10, 9, 4, 0]
+Menor distância: 63
+tempo decorrido: 1194 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 6, 5, 10, 7, 2, 8, 3, 9, 0]
+Menor distância: 52
+tempo decorrido: 1325 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 8, 3, 4, 2, 5, 1, 7, 9, 0]
+Menor distância: 74
+tempo decorrido: 1258 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 6, 8, 2, 9, 10, 4, 5, 7, 0]
+Menor distância: 52
+tempo decorrido: 1298 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 1, 3, 5, 9, 10, 6, 8, 7, 0]
+Menor distância: 89
+tempo decorrido: 1347 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 7, 2, 8, 6, 4, 9, 10, 5, 0]
+Menor distância: 55
+tempo decorrido: 1280 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 8, 6, 5, 4, 7, 10, 2, 9, 0]
+Menor distância: 47
+tempo decorrido: 1252 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 2, 9, 3, 7, 8, 5, 4, 10, 0]
+Menor distância: 70
+tempo decorrido: 1211 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 10, 4, 3, 8, 7, 6, 9, 0]
+Menor distância: 67
+tempo decorrido: 1283 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 9, 10, 8, 6, 2, 7, 1, 5, 0]
+Menor distância: 41
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 7, 9, 4, 6, 5, 2, 8, 3, 0]
+Menor distância: 53
+tempo decorrido: 1221 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 6, 4, 7, 10, 9, 5, 2, 3, 0]
+Menor distância: 55
+tempo decorrido: 1271 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 6, 5, 2, 4, 3, 9, 10, 8, 0]
+Menor distância: 47
+tempo decorrido: 1524 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 1, 7, 5, 3, 10, 9, 2, 8, 0]
+Menor distância: 44
+tempo decorrido: 1487 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 6, 10, 1, 8, 3, 7, 9, 4, 0]
+Menor distância: 59
+tempo decorrido: 1733 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 1, 3, 10, 9, 4, 7, 8, 5, 0]
+Menor distância: 52
+tempo decorrido: 1637 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 4, 3, 5, 8, 2, 6, 1, 10, 0]
+Menor distância: 36
+tempo decorrido: 1746 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 5, 4, 6, 7, 9, 3, 10, 8, 0]
+Menor distância: 35
+tempo decorrido: 2257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 6, 3, 1, 5, 7, 4, 8, 10, 0]
+Menor distância: 47
+tempo decorrido: 2385 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 7, 9, 8, 10, 3, 1, 4, 6, 0]
+Menor distância: 38
+tempo decorrido: 1939 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 4, 8, 10, 3, 1, 9, 2, 6, 0]
+Menor distância: 68
+tempo decorrido: 1833 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 5, 10, 9, 7, 3, 4, 6, 2, 0]
+Menor distância: 74
+tempo decorrido: 1908 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 6, 3, 9, 4, 2, 5, 1, 10, 0]
+Menor distância: 53
+tempo decorrido: 2078 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 4, 7, 6, 1, 10, 9, 2, 8, 0]
+Menor distância: 69
+tempo decorrido: 1545 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 10, 6, 5, 1, 2, 3, 7, 4, 9, 0]
+Menor distância: 56
+tempo decorrido: 2249 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 1, 6, 7, 9, 4, 2, 10, 8, 0]
+Menor distância: 59
+tempo decorrido: 2094 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 1, 2, 5, 7, 6, 3, 9, 8, 0]
+Menor distância: 57
+tempo decorrido: 1964 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 9, 7, 3, 2, 10, 5, 6, 8, 0]
+Menor distância: 43
+tempo decorrido: 2126 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 7, 9, 3, 6, 2, 1, 5, 8, 0]
+Menor distância: 69
+tempo decorrido: 2425 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 8, 6, 10, 1, 7, 2, 4, 5, 0]
+Menor distância: 85
+tempo decorrido: 2145 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 2, 4, 5, 3, 1, 7, 9, 8, 0]
+Menor distância: 34
+tempo decorrido: 2070 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 6, 9, 2, 10, 3, 4, 7, 8, 0]
+Menor distância: 48
+tempo decorrido: 2261 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 4, 5, 10, 6, 1, 2, 3, 9, 0]
+Menor distância: 60
+tempo decorrido: 1810 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 6, 8, 3, 4, 10, 7, 9, 0]
+Menor distância: 42
+tempo decorrido: 2059 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 4, 6, 10, 9, 8, 2, 5, 7, 0]
+Menor distância: 63
+tempo decorrido: 1677 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 7, 2, 5, 9, 3, 10, 6, 0]
+Menor distância: 57
+tempo decorrido: 2208 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 2, 7, 4, 1, 10, 3, 6, 8, 0]
+Menor distância: 63
+tempo decorrido: 2048 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 4, 5, 7, 2, 3, 1, 8, 6, 10, 0]
+Menor distância: 51
+tempo decorrido: 1969 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 4, 1, 7, 3, 2, 10, 5, 8, 0]
+Menor distância: 53
+tempo decorrido: 2200 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 9, 3, 7, 8, 2, 6, 5, 10, 0]
+Menor distância: 32
+tempo decorrido: 1786 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 9, 5, 10, 7, 4, 8, 3, 6, 0]
+Menor distância: 50
+tempo decorrido: 2417 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 2, 4, 9, 1, 8, 6, 10, 5, 0]
+Menor distância: 62
+tempo decorrido: 2008 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 4, 6, 7, 5, 9, 3, 1, 10, 0]
+Menor distância: 62
+tempo decorrido: 2167 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 4, 10, 5, 9, 6, 8, 3, 7, 0]
+Menor distância: 60
+tempo decorrido: 2046 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 8, 3, 2, 6, 7, 1, 9, 5, 0]
+Menor distância: 64
+tempo decorrido: 2201 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 5, 6, 3, 4, 10, 8, 9, 7, 0]
+Menor distância: 41
+tempo decorrido: 2096 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 8, 3, 9, 1, 2, 6, 5, 7, 0]
+Menor distância: 68
+tempo decorrido: 1645 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 9, 7, 10, 4, 2, 8, 1, 6, 0]
+Menor distância: 63
+tempo decorrido: 2209 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 8, 1, 7, 9, 3, 10, 5, 6, 0]
+Menor distância: 65
+tempo decorrido: 2625 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 8, 7, 6, 10, 2, 9, 4, 3, 0]
+Menor distância: 57
+tempo decorrido: 2437 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 1, 2, 10, 7, 5, 6, 9, 8, 0]
+Menor distância: 50
+tempo decorrido: 2112 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 5, 10, 4, 9, 2, 6, 3, 8, 0]
+Menor distância: 52
+tempo decorrido: 1989 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 10, 9, 4, 5, 1, 2, 7, 6, 0]
+Menor distância: 55
+tempo decorrido: 2325 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 8, 4, 10, 7, 6, 5, 3, 9, 0]
+Menor distância: 52
+tempo decorrido: 1766 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 2, 6, 3, 9, 7, 4, 5, 0]
+Menor distância: 61
+tempo decorrido: 2377 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 4, 2, 10, 5, 6, 8, 9, 7, 0]
+Menor distância: 53
+tempo decorrido: 2068 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 5, 10, 6, 4, 1, 9, 3, 7, 0]
+Menor distância: 50
+tempo decorrido: 1887 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 7, 4, 3, 1, 6, 8, 9, 5, 0]
+Menor distância: 51
+tempo decorrido: 2699 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 9, 8, 2, 6, 7, 4, 10, 3, 0]
+Menor distância: 49
+tempo decorrido: 1672 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 1, 3, 6, 7, 2, 5, 9, 10, 0]
+Menor distância: 38
+tempo decorrido: 2174 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 10, 6, 9, 1, 3, 2, 5, 8, 0]
+Menor distância: 62
+tempo decorrido: 1849 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 4, 3, 6, 5, 1, 7, 10, 8, 0]
+Menor distância: 52
+tempo decorrido: 2125 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 3, 2, 8, 4, 9, 10, 6, 7, 0]
+Menor distância: 59
+tempo decorrido: 2233 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 8, 10, 6, 1, 3, 2, 4, 7, 9, 0]
+Menor distância: 73
+tempo decorrido: 2072 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 6, 10, 7, 8, 1, 5, 3, 9, 0]
+Menor distância: 52
+tempo decorrido: 2205 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 10, 8, 3, 1, 6, 7, 9, 5, 0]
+Menor distância: 47
+tempo decorrido: 2096 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 3, 9, 7, 8, 1, 5, 10, 6, 0]
+Menor distância: 55
+tempo decorrido: 1722 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 5, 2, 10, 4, 7, 9, 1, 8, 0]
+Menor distância: 63
+tempo decorrido: 2276 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 6, 5, 7, 2, 4, 1, 9, 10, 0]
+Menor distância: 52
+tempo decorrido: 2141 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 6, 8, 10, 2, 4, 1, 7, 5, 0]
+Menor distância: 61
+tempo decorrido: 2352 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 1, 10, 7, 5, 9, 2, 6, 4, 0]
+Menor distância: 43
+tempo decorrido: 2178 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 8, 1, 9, 7, 4, 10, 5, 3, 0]
+Menor distância: 95
+tempo decorrido: 2092 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 4, 10, 2, 5, 6, 3, 9, 1, 8, 0]
+Menor distância: 82
+tempo decorrido: 1983 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 7, 6, 10, 3, 2, 4, 9, 8, 0]
+Menor distância: 59
+tempo decorrido: 2119 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 9, 3, 6, 10, 1, 2, 7, 5, 0]
+Menor distância: 66
+tempo decorrido: 2200 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 10, 3, 1, 5, 6, 9, 4, 8, 0]
+Menor distância: 55
+tempo decorrido: 2349 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 9, 8, 6, 5, 2, 10, 1, 7, 0]
+Menor distância: 69
+tempo decorrido: 2229 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 4, 1, 2, 7, 8, 5, 9, 10, 0]
+Menor distância: 69
+tempo decorrido: 1815 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 8, 10, 5, 7, 6, 4, 3, 0]
+Menor distância: 55
+tempo decorrido: 2121 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 10, 3, 1, 9, 6, 7, 4, 8, 0]
+Menor distância: 64
+tempo decorrido: 1992 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 4, 2, 3, 8, 6, 1, 5, 7, 10, 0]
+Menor distância: 43
+tempo decorrido: 2013 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 4, 6, 3, 10, 5, 8, 9, 7, 0]
+Menor distância: 30
+tempo decorrido: 2243 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 4, 5, 1, 7, 8, 10, 3, 6, 0]
+Menor distância: 57
+tempo decorrido: 1791 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 4, 6, 9, 1, 2, 3, 10, 8, 0]
+Menor distância: 61
+tempo decorrido: 2189 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 4, 1, 6, 5, 8, 9, 7, 10, 0]
+Menor distância: 54
+tempo decorrido: 2100 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 3, 9, 6, 5, 1, 8, 4, 10, 0]
+Menor distância: 38
+tempo decorrido: 1928 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 7, 9, 6, 10, 2, 8, 4, 3, 0]
+Menor distância: 61
+tempo decorrido: 1989 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 10, 8, 1, 6, 4, 7, 2, 5, 0]
+Menor distância: 54
+tempo decorrido: 1933 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 2, 6, 4, 5, 1, 7, 9, 10, 0]
+Menor distância: 63
+tempo decorrido: 2120 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 2, 3, 10, 1, 6, 7, 8, 9, 0]
+Menor distância: 43
+tempo decorrido: 2165 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 2, 6, 8, 5, 1, 3, 4, 9, 0]
+Menor distância: 34
+tempo decorrido: 2206 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 6, 1, 4, 10, 8, 3, 9, 7, 0]
+Menor distância: 55
+tempo decorrido: 2236 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 5, 8, 6, 3, 10, 4, 2, 9, 0]
+Menor distância: 53
+tempo decorrido: 2236 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 10, 6, 7, 4, 5, 8, 2, 9, 0]
+Menor distância: 32
+tempo decorrido: 2232 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 2, 7, 3, 9, 1, 10, 5, 8, 0]
+Menor distância: 41
+tempo decorrido: 2081 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 4, 1, 2, 10, 5, 6, 9, 3, 8, 0]
+Menor distância: 64
+tempo decorrido: 2184 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 2, 9, 10, 5, 6, 4, 8, 7, 0]
+Menor distância: 50
+tempo decorrido: 2058 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 10, 9, 5, 2, 1, 3, 7, 8, 0]
+Menor distância: 53
+tempo decorrido: 2274 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 7, 9, 3, 1, 10, 4, 6, 5, 0]
+Menor distância: 60
+tempo decorrido: 2082 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 4, 5, 7, 2, 8, 9, 3, 1, 10, 0]
+Menor distância: 72
+tempo decorrido: 2487 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 2, 7, 10, 5, 8, 9, 4, 6, 0]
+Menor distância: 42
+tempo decorrido: 2059 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 5, 3, 1, 2, 7, 8, 4, 10, 0]
+Menor distância: 57
+tempo decorrido: 1936 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 2, 3, 4, 9, 10, 8, 5, 7, 0]
+Menor distância: 67
+tempo decorrido: 2670 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 2, 6, 3, 5, 8, 7, 4, 0]
+Menor distância: 56
+tempo decorrido: 1948 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 8, 1, 10, 5, 9, 2, 3, 6, 0]
+Menor distância: 47
+tempo decorrido: 2417 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 6, 5, 3, 8, 4, 10, 9, 7, 0]
+Menor distância: 52
+tempo decorrido: 1518 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 10, 2, 6, 4, 1, 5, 3, 9, 0]
+Menor distância: 45
+tempo decorrido: 2387 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 2, 8, 6, 10, 1, 3, 5, 7, 0]
+Menor distância: 73
+tempo decorrido: 1906 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 7, 4, 1, 10, 3, 5, 9, 8, 0]
+Menor distância: 60
+tempo decorrido: 1834 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 5, 10, 6, 7, 4, 3, 1, 2, 9, 0]
+Menor distância: 55
+tempo decorrido: 2142 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 5, 2, 9, 7, 10, 6, 1, 4, 0]
+Menor distância: 47
+tempo decorrido: 2067 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 4, 2, 9, 5, 10, 3, 8, 7, 0]
+Menor distância: 54
+tempo decorrido: 1993 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 5, 4, 7, 10, 2, 1, 3, 8, 0]
+Menor distância: 61
+tempo decorrido: 1335 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 1, 3, 5, 9, 7, 8, 6, 10, 0]
+Menor distância: 71
+tempo decorrido: 1798 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 10, 6, 5, 9, 7, 2, 8, 3, 0]
+Menor distância: 56
+tempo decorrido: 1914 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 5, 4, 1, 6, 3, 9, 2, 10, 8, 0]
+Menor distância: 67
+tempo decorrido: 1807 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 1, 9, 4, 6, 3, 5, 2, 10, 0]
+Menor distância: 68
+tempo decorrido: 2012 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 7, 1, 5, 9, 4, 10, 8, 6, 0]
+Menor distância: 49
+tempo decorrido: 2018 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 8, 3, 10, 1, 7, 4, 9, 6, 0]
+Menor distância: 43
+tempo decorrido: 1923 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 6, 8, 1, 5, 3, 2, 10, 9, 0]
+Menor distância: 48
+tempo decorrido: 2485 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 7, 9, 3, 4, 5, 2, 8, 6, 0]
+Menor distância: 55
+tempo decorrido: 2044 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 10, 8, 6, 2, 9, 4, 7, 5, 0]
+Menor distância: 44
+tempo decorrido: 2138 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 4, 2, 9, 7, 6, 10, 3, 8, 0]
+Menor distância: 69
+tempo decorrido: 1586 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 9, 5, 8, 4, 2, 1, 10, 7, 0]
+Menor distância: 83
+tempo decorrido: 2199 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 10, 3, 4, 9, 1, 2, 6, 8, 0]
+Menor distância: 48
+tempo decorrido: 2057 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 4, 2, 3, 8, 9, 10, 1, 6, 0]
+Menor distância: 49
+tempo decorrido: 1941 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 8, 6, 2, 1, 9, 10, 4, 7, 0]
+Menor distância: 67
+tempo decorrido: 1967 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 9, 2, 7, 1, 5, 10, 3, 8, 0]
+Menor distância: 59
+tempo decorrido: 1774 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 4, 5, 1, 7, 6, 10, 3, 2, 9, 0]
+Menor distância: 52
+tempo decorrido: 1645 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 5, 4, 10, 7, 9, 8, 2, 6, 0]
+Menor distância: 59
+tempo decorrido: 2021 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 7, 10, 1, 3, 5, 6, 2, 9, 0]
+Menor distância: 63
+tempo decorrido: 2346 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 2, 3, 6, 10, 9, 7, 8, 0]
+Menor distância: 60
+tempo decorrido: 2375 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 6, 1, 4, 5, 3, 7, 10, 9, 0]
+Menor distância: 41
+tempo decorrido: 1858 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 5, 1, 2, 10, 4, 9, 6, 8, 0]
+Menor distância: 57
+tempo decorrido: 1884 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 5, 7, 2, 6, 9, 10, 1, 8, 0]
+Menor distância: 42
+tempo decorrido: 2389 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 9, 8, 7, 10, 6, 4, 5, 3, 0]
+Menor distância: 60
+tempo decorrido: 1891 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 9, 2, 10, 1, 8, 3, 7, 6, 0]
+Menor distância: 71
+tempo decorrido: 1893 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 5, 9, 8, 7, 2, 10, 6, 4, 0]
+Menor distância: 52
+tempo decorrido: 1880 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 6, 4, 3, 1, 10, 9, 2, 7, 8, 0]
+Menor distância: 43
+tempo decorrido: 1896 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 8, 1, 2, 10, 6, 9, 7, 4, 0]
+Menor distância: 58
+tempo decorrido: 2009 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 4, 10, 7, 5, 3, 6, 8, 0]
+Menor distância: 54
+tempo decorrido: 2169 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 5, 3, 8, 2, 10, 6, 4, 7, 0]
+Menor distância: 46
+tempo decorrido: 1606 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 4, 10, 7, 6, 1, 5, 8, 9, 0]
+Menor distância: 40
+tempo decorrido: 1884 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 8, 5, 2, 4, 3, 9, 10, 6, 0]
+Menor distância: 58
+tempo decorrido: 1814 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 4, 10, 9, 8, 5, 2, 6, 3, 0]
+Menor distância: 42
+tempo decorrido: 2402 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 3, 2, 7, 5, 8, 9, 4, 6, 0]
+Menor distância: 54
+tempo decorrido: 2025 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 9, 4, 5, 7, 6, 2, 1, 8, 0]
+Menor distância: 64
+tempo decorrido: 2245 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 1, 10, 4, 8, 7, 3, 5, 6, 0]
+Menor distância: 62
+tempo decorrido: 1978 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 8, 9, 3, 5, 4, 1, 2, 7, 0]
+Menor distância: 56
+tempo decorrido: 1455 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 8, 7, 4, 6, 3, 10, 2, 9, 0]
+Menor distância: 68
+tempo decorrido: 2120 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 10, 9, 2, 8, 7, 1, 3, 6, 0]
+Menor distância: 86
+tempo decorrido: 2073 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 5, 10, 8, 4, 2, 7, 3, 6, 0]
+Menor distância: 57
+tempo decorrido: 1672 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 6, 5, 9, 3, 2, 8, 10, 7, 0]
+Menor distância: 72
+tempo decorrido: 2200 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 6, 10, 8, 4, 9, 7, 3, 5, 0]
+Menor distância: 58
+tempo decorrido: 2044 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 3, 5, 4, 6, 1, 2, 10, 8, 0]
+Menor distância: 37
+tempo decorrido: 2213 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 2, 4, 8, 6, 9, 5, 7, 10, 0]
+Menor distância: 53
+tempo decorrido: 1681 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 4, 8, 1, 9, 5, 2, 10, 7, 0]
+Menor distância: 62
+tempo decorrido: 1652 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 3, 9, 1, 7, 10, 5, 6, 8, 0]
+Menor distância: 44
+tempo decorrido: 2575 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 6, 5, 4, 1, 10, 3, 7, 9, 0]
+Menor distância: 48
+tempo decorrido: 1856 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 3, 9, 10, 5, 2, 7, 1, 8, 0]
+Menor distância: 45
+tempo decorrido: 1819 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 7, 3, 2, 6, 4, 10, 8, 5, 0]
+Menor distância: 54
+tempo decorrido: 2126 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 5, 8, 9, 3, 1, 6, 4, 10, 0]
+Menor distância: 74
+tempo decorrido: 1981 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 6, 8, 2, 3, 10, 5, 1, 4, 9, 0]
+Menor distância: 51
+tempo decorrido: 2361 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 1, 6, 9, 10, 8, 5, 2, 7, 0]
+Menor distância: 38
+tempo decorrido: 1783 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 8, 6, 2, 5, 7, 4, 3, 9, 0]
+Menor distância: 67
+tempo decorrido: 1761 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 8, 1, 9, 4, 6, 10, 3, 7, 0]
+Menor distância: 57
+tempo decorrido: 1934 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 2, 8, 3, 6, 10, 4, 1, 7, 9, 0]
+Menor distância: 43
+tempo decorrido: 1667 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 9, 6, 4, 5, 10, 3, 2, 1, 8, 0]
+Menor distância: 54
+tempo decorrido: 1364 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 4, 7, 2, 9, 8, 10, 3, 6, 0]
+Menor distância: 58
+tempo decorrido: 1390 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 2, 6, 9, 7, 3, 8, 4, 10, 0]
+Menor distância: 47
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 5, 7, 10, 2, 4, 6, 9, 8, 0]
+Menor distância: 55
+tempo decorrido: 1262 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 7, 1, 3, 10, 8, 6, 5, 4, 0]
+Menor distância: 45
+tempo decorrido: 1342 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 1, 3, 7, 10, 9, 2, 6, 8, 0]
+Menor distância: 70
+tempo decorrido: 1375 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 9, 3, 1, 10, 8, 5, 6, 7, 0]
+Menor distância: 59
+tempo decorrido: 1274 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 4, 8, 10, 5, 2, 7, 3, 9, 0]
+Menor distância: 56
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 2, 8, 1, 4, 7, 10, 9, 5, 0]
+Menor distância: 46
+tempo decorrido: 1226 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 8, 6, 4, 2, 10, 7, 9, 5, 0]
+Menor distância: 50
+tempo decorrido: 1219 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 6, 10, 8, 3, 5, 7, 1, 9, 0]
+Menor distância: 69
+tempo decorrido: 1261 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 4, 5, 2, 8, 3, 9, 1, 6, 10, 0]
+Menor distância: 46
+tempo decorrido: 1252 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 4, 3, 6, 7, 2, 9, 8, 5, 0]
+Menor distância: 65
+tempo decorrido: 1277 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 7, 5, 1, 6, 2, 3, 4, 10, 9, 0]
+Menor distância: 58
+tempo decorrido: 1255 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 8, 4, 9, 7, 6, 3, 10, 5, 0]
+Menor distância: 62
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 3, 8, 7, 9, 4, 2, 5, 10, 0]
+Menor distância: 57
+tempo decorrido: 1245 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 7, 2, 4, 1, 9, 3, 5, 10, 8, 0]
+Menor distância: 42
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 1, 6, 2, 8, 3, 10, 7, 5, 9, 0]
+Menor distância: 49
+tempo decorrido: 1249 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 10, 9, 7, 2, 5, 1, 6, 8, 0]
+Menor distância: 46
+tempo decorrido: 1263 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 4, 5, 3, 1, 2, 6, 9, 8, 10, 0]
+Menor distância: 66
+tempo decorrido: 1194 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 7, 10, 5, 6, 1, 8, 3, 9, 0]
+Menor distância: 36
+tempo decorrido: 1209 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 5, 7, 2, 1, 10, 6, 4, 9, 0]
+Menor distância: 47
+tempo decorrido: 1391 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 9, 5, 10, 2, 1, 6, 8, 4, 0]
+Menor distância: 89
+tempo decorrido: 1218 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 5, 3, 8, 6, 7, 9, 2, 10, 0]
+Menor distância: 70
+tempo decorrido: 1185 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 8, 7, 2, 3, 4, 5, 1, 10, 9, 0]
+Menor distância: 55
+tempo decorrido: 1202 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 7, 9, 4, 10, 8, 6, 1, 3, 0]
+Menor distância: 38
+tempo decorrido: 1216 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 10, 5, 2, 9, 7, 4, 8, 6, 0]
+Menor distância: 76
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 4, 3, 6, 8, 9, 10, 5, 7, 0]
+Menor distância: 39
+tempo decorrido: 1297 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 7, 5, 1, 3, 10, 6, 8, 9, 0]
+Menor distância: 54
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 9, 7, 3, 2, 4, 8, 10, 6, 0]
+Menor distância: 38
+tempo decorrido: 1201 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 8, 3, 5, 6, 4, 2, 7, 10, 0]
+Menor distância: 55
+tempo decorrido: 1214 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 6, 4, 5, 3, 7, 1, 9, 10, 0]
+Menor distância: 48
+tempo decorrido: 1157 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 5, 9, 7, 1, 3, 6, 8, 4, 0]
+Menor distância: 76
+tempo decorrido: 1379 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 3, 9, 4, 7, 1, 5, 10, 8, 0]
+Menor distância: 66
+tempo decorrido: 1195 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 1, 8, 4, 7, 6, 2, 5, 10, 0]
+Menor distância: 54
+tempo decorrido: 1300 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 4, 2, 6, 3, 5, 9, 1, 10, 8, 0]
+Menor distância: 38
+tempo decorrido: 1170 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 5, 10, 3, 8, 2, 1, 4, 7, 0]
+Menor distância: 49
+tempo decorrido: 1225 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 4, 5, 8, 2, 6, 10, 1, 7, 0]
+Menor distância: 46
+tempo decorrido: 1317 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 1, 8, 10, 5, 6, 9, 2, 7, 0]
+Menor distância: 49
+tempo decorrido: 1205 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 5, 4, 10, 7, 6, 2, 1, 8, 0]
+Menor distância: 50
+tempo decorrido: 1243 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 10, 9, 1, 5, 4, 3, 7, 8, 0]
+Menor distância: 66
+tempo decorrido: 1207 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 9, 3, 1, 5, 6, 8, 7, 4, 10, 0]
+Menor distância: 54
+tempo decorrido: 1354 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 6, 1, 4, 3, 2, 7, 10, 8, 0]
+Menor distância: 47
+tempo decorrido: 1227 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 8, 1, 6, 10, 5, 4, 2, 9, 0]
+Menor distância: 50
+tempo decorrido: 1345 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 8, 3, 10, 5, 6, 2, 9, 0]
+Menor distância: 58
+tempo decorrido: 1178 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 2, 1, 5, 10, 7, 4, 3, 9, 0]
+Menor distância: 63
+tempo decorrido: 1258 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 7, 8, 10, 6, 2, 9, 1, 5, 0]
+Menor distância: 54
+tempo decorrido: 1214 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 8, 10, 3, 7, 5, 4, 9, 6, 0]
+Menor distância: 62
+tempo decorrido: 1244 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 3, 6, 10, 8, 4, 1, 5, 9, 0]
+Menor distância: 37
+tempo decorrido: 1322 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 3, 2, 10, 4, 6, 7, 1, 8, 0]
+Menor distância: 40
+tempo decorrido: 1300 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 1, 9, 7, 10, 2, 6, 3, 8, 0]
+Menor distância: 47
+tempo decorrido: 1292 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 1, 7, 9, 10, 2, 5, 4, 8, 0]
+Menor distância: 55
+tempo decorrido: 1235 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 2, 8, 9, 5, 7, 6, 4, 3, 0]
+Menor distância: 60
+tempo decorrido: 1266 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 9, 7, 3, 1, 6, 2, 10, 8, 0]
+Menor distância: 52
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 3, 1, 8, 4, 5, 2, 6, 9, 0]
+Menor distância: 58
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 3, 6, 4, 1, 2, 8, 10, 7, 0]
+Menor distância: 60
+tempo decorrido: 1232 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 4, 2, 7, 1, 5, 8, 6, 9, 0]
+Menor distância: 35
+tempo decorrido: 1197 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 10, 4, 8, 1, 6, 5, 9, 7, 0]
+Menor distância: 48
+tempo decorrido: 1290 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 10, 4, 7, 3, 5, 6, 1, 2, 9, 0]
+Menor distância: 53
+tempo decorrido: 1293 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 4, 2, 9, 1, 7, 10, 8, 3, 6, 0]
+Menor distância: 47
+tempo decorrido: 1227 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 8, 5, 2, 9, 4, 6, 7, 10, 0]
+Menor distância: 45
+tempo decorrido: 1347 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 2, 4, 1, 6, 5, 3, 9, 7, 10, 0]
+Menor distância: 42
+tempo decorrido: 1212 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 9, 3, 10, 7, 4, 8, 1, 6, 0]
+Menor distância: 46
+tempo decorrido: 1312 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 4, 6, 9, 3, 5, 10, 1, 7, 0]
+Menor distância: 43
+tempo decorrido: 1262 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 5, 7, 1, 6, 3, 2, 10, 9, 0]
+Menor distância: 46
+tempo decorrido: 1306 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 9, 5, 2, 7, 3, 8, 4, 6, 0]
+Menor distância: 64
+tempo decorrido: 1199 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 9, 2, 5, 10, 3, 8, 1, 7, 0]
+Menor distância: 52
+tempo decorrido: 1389 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 3, 10, 6, 5, 9, 8, 2, 4, 0]
+Menor distância: 55
+tempo decorrido: 1255 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 8, 1, 5, 3, 10, 2, 7, 9, 6, 0]
+Menor distância: 69
+tempo decorrido: 1311 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 1, 8, 5, 6, 7, 10, 4, 9, 0]
+Menor distância: 27
+tempo decorrido: 1198 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 8, 5, 3, 2, 9, 6, 1, 4, 10, 0]
+Menor distância: 36
+tempo decorrido: 1269 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 5, 3, 4, 10, 1, 2, 7, 6, 9, 0]
+Menor distância: 36
+tempo decorrido: 1265 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 9, 3, 8, 10, 5, 1, 7, 6, 0]
+Menor distância: 46
+tempo decorrido: 1246 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 8, 7, 4, 6, 2, 1, 10, 9, 0]
+Menor distância: 44
+tempo decorrido: 1197 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 3, 2, 10, 5, 9, 1, 6, 8, 0]
+Menor distância: 82
+tempo decorrido: 1356 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 1, 9, 5, 6, 8, 10, 2, 7, 0]
+Menor distância: 56
+tempo decorrido: 1256 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 8, 1, 7, 2, 5, 4, 3, 9, 0]
+Menor distância: 54
+tempo decorrido: 1192 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 1, 6, 3, 10, 7, 2, 4, 5, 9, 0]
+Menor distância: 42
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 7, 8, 6, 2, 5, 1, 10, 9, 0]
+Menor distância: 56
+tempo decorrido: 1200 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 4, 10, 7, 3, 8, 1, 6, 9, 0]
+Menor distância: 70
+tempo decorrido: 1239 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 7, 6, 9, 5, 10, 3, 4, 8, 0]
+Menor distância: 94
+tempo decorrido: 1220 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 2, 1, 8, 5, 3, 6, 7, 10, 0]
+Menor distância: 63
+tempo decorrido: 1185 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 1, 4, 7, 10, 6, 5, 8, 9, 0]
+Menor distância: 50
+tempo decorrido: 1214 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 1, 2, 3, 4, 8, 7, 10, 5, 9, 0]
+Menor distância: 79
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 1, 8, 7, 2, 9, 4, 5, 6, 0]
+Menor distância: 54
+tempo decorrido: 1241 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 2, 6, 1, 8, 7, 4, 9, 10, 0]
+Menor distância: 61
+tempo decorrido: 1327 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 4, 5, 6, 8, 7, 1, 3, 9, 0]
+Menor distância: 57
+tempo decorrido: 1284 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 6, 5, 1, 10, 7, 9, 4, 8, 0]
+Menor distância: 54
+tempo decorrido: 1210 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 8, 9, 4, 10, 1, 6, 5, 7, 0]
+Menor distância: 41
+tempo decorrido: 1316 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 10, 7, 1, 8, 3, 4, 5, 2, 9, 0]
+Menor distância: 52
+tempo decorrido: 1209 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 7, 3, 6, 8, 4, 5, 10, 9, 2, 0]
+Menor distância: 63
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 8, 5, 3, 4, 10, 7, 2, 9, 0]
+Menor distância: 53
+tempo decorrido: 1323 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 9, 7, 1, 5, 10, 2, 8, 6, 0]
+Menor distância: 63
+tempo decorrido: 1250 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 6, 10, 4, 1, 8, 5, 2, 7, 9, 0]
+Menor distância: 70
+tempo decorrido: 1416 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 7, 1, 4, 10, 9, 2, 6, 3, 8, 0]
+Menor distância: 52
+tempo decorrido: 1224 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 2, 9, 4, 8, 1, 5, 10, 7, 0]
+Menor distância: 70
+tempo decorrido: 1239 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 9, 5, 3, 4, 6, 8, 1, 7, 0]
+Menor distância: 49
+tempo decorrido: 1170 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 3, 4, 7, 2, 9, 10, 5, 6, 0]
+Menor distância: 50
+tempo decorrido: 1177 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 2, 5, 1, 8, 9, 7, 4, 6, 0]
+Menor distância: 44
+tempo decorrido: 1228 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 2, 5, 4, 3, 6, 8, 9, 7, 0]
+Menor distância: 45
+tempo decorrido: 1232 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 7, 5, 9, 10, 4, 3, 1, 2, 8, 0]
+Menor distância: 59
+tempo decorrido: 1319 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 4, 3, 8, 6, 10, 9, 7, 5, 0]
+Menor distância: 39
+tempo decorrido: 1345 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 3, 6, 2, 9, 5, 10, 4, 1, 8, 0]
+Menor distância: 60
+tempo decorrido: 1197 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 1, 10, 2, 5, 7, 8, 6, 9, 0]
+Menor distância: 41
+tempo decorrido: 1285 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 5, 10, 9, 4, 3, 8, 1, 7, 0]
+Menor distância: 47
+tempo decorrido: 1194 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 9, 8, 4, 10, 5, 6, 3, 7, 0]
+Menor distância: 56
+tempo decorrido: 1270 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 8, 1, 6, 7, 9, 3, 4, 10, 0]
+Menor distância: 76
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 1, 7, 9, 8, 3, 2, 4, 6, 10, 0]
+Menor distância: 58
+tempo decorrido: 1289 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 6, 3, 10, 8, 4, 5, 2, 7, 0]
+Menor distância: 72
+tempo decorrido: 1198 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 1, 5, 2, 6, 8, 7, 10, 9, 0]
+Menor distância: 35
+tempo decorrido: 1273 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 8, 10, 1, 4, 9, 7, 6, 5, 0]
+Menor distância: 40
+tempo decorrido: 1358 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 4, 6, 9, 2, 8, 5, 1, 10, 0]
+Menor distância: 68
+tempo decorrido: 1299 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 7, 2, 6, 10, 9, 3, 5, 0]
+Menor distância: 46
+tempo decorrido: 1362 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 8, 4, 9, 6, 10, 3, 5, 2, 7, 0]
+Menor distância: 64
+tempo decorrido: 1240 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 10, 1, 6, 9, 7, 5, 2, 4, 0]
+Menor distância: 55
+tempo decorrido: 1289 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 3, 10, 7, 5, 1, 4, 2, 8, 9, 0]
+Menor distância: 49
+tempo decorrido: 1226 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 9, 4, 6, 3, 7, 5, 8, 2, 0]
+Menor distância: 52
+tempo decorrido: 1336 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 1, 3, 2, 5, 10, 4, 7, 6, 9, 0]
+Menor distância: 75
+tempo decorrido: 1275 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 4, 7, 8, 10, 6, 5, 1, 9, 0]
+Menor distância: 61
+tempo decorrido: 1237 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 8, 10, 5, 6, 3, 2, 1, 7, 0]
+Menor distância: 75
+tempo decorrido: 1205 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 7, 4, 9, 6, 10, 8, 3, 0]
+Menor distância: 52
+tempo decorrido: 1239 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 7, 6, 2, 5, 8, 1, 10, 4, 0]
+Menor distância: 58
+tempo decorrido: 1223 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 8, 7, 5, 4, 3, 2, 1, 6, 10, 0]
+Menor distância: 58
+tempo decorrido: 1383 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 5, 2, 9, 8, 4, 7, 6, 10, 0]
+Menor distância: 43
+tempo decorrido: 1195 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 2, 6, 3, 8, 9, 5, 10, 0]
+Menor distância: 50
+tempo decorrido: 1248 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 6, 7, 4, 5, 1, 8, 9, 3, 10, 0]
+Menor distância: 64
+tempo decorrido: 1317 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 9, 3, 8, 10, 6, 7, 2, 5, 0]
+Menor distância: 48
+tempo decorrido: 1289 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 5, 1, 7, 9, 2, 4, 8, 3, 10, 0]
+Menor distância: 49
+tempo decorrido: 1197 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 6, 8, 10, 7, 4, 2, 5, 9, 0]
+Menor distância: 53
+tempo decorrido: 1210 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 7, 10, 5, 8, 3, 2, 1, 6, 0]
+Menor distância: 78
+tempo decorrido: 1205 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 5, 7, 4, 10, 8, 6, 1, 9, 0]
+Menor distância: 46
+tempo decorrido: 1281 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 10, 1, 2, 9, 6, 5, 8, 4, 7, 0]
+Menor distância: 41
+tempo decorrido: 1426 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 2, 3, 10, 6, 9, 5, 7, 8, 4, 0]
+Menor distância: 48
+tempo decorrido: 1182 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 7, 2, 6, 3, 5, 9, 8, 10, 0]
+Menor distância: 54
+tempo decorrido: 1271 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 7, 1, 3, 6, 2, 9, 10, 5, 8, 0]
+Menor distância: 47
+tempo decorrido: 1251 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 8, 1, 10, 3, 9, 2, 5, 7, 0]
+Menor distância: 51
+tempo decorrido: 1231 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 2, 3, 6, 7, 10, 9, 8, 4, 0]
+Menor distância: 60
+tempo decorrido: 1286 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 3, 1, 4, 5, 7, 9, 10, 6, 0]
+Menor distância: 69
+tempo decorrido: 1227 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 4, 5, 7, 9, 10, 1, 8, 6, 3, 0]
+Menor distância: 52
+tempo decorrido: 1369 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 1, 5, 3, 9, 7, 10, 4, 6, 8, 0]
+Menor distância: 45
+tempo decorrido: 1257 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 3, 1, 10, 6, 2, 8, 7, 4, 9, 0]
+Menor distância: 56
+tempo decorrido: 1243 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 5, 10, 9, 8, 3, 4, 7, 2, 6, 0]
+Menor distância: 60
+tempo decorrido: 1275 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 2, 5, 7, 3, 4, 6, 8, 0]
+Menor distância: 49
+tempo decorrido: 1381 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 4, 6, 10, 7, 1, 3, 2, 8, 0]
+Menor distância: 64
+tempo decorrido: 1205 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 2, 5, 8, 4, 3, 7, 1, 10, 0]
+Menor distância: 43
+tempo decorrido: 1281 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 9, 1, 8, 3, 2, 7, 4, 5, 10, 0]
+Menor distância: 61
+tempo decorrido: 1313 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 3, 8, 4, 1, 2, 6, 7, 10, 0]
+Menor distância: 49
+tempo decorrido: 1262 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 2, 1, 8, 7, 6, 5, 4, 10, 0]
+Menor distância: 58
+tempo decorrido: 1233 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 7, 8, 5, 9, 1, 3, 4, 6, 0]
+Menor distância: 39
+tempo decorrido: 1253 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 6, 9, 4, 8, 5, 7, 2, 3, 10, 0]
+Menor distância: 48
+tempo decorrido: 1345 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 3, 8, 1, 2, 6, 10, 9, 7, 0]
+Menor distância: 38
+tempo decorrido: 1318 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 8, 2, 7, 1, 4, 6, 9, 10, 0]
+Menor distância: 39
+tempo decorrido: 1221 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 6, 5, 3, 4, 1, 2, 7, 9, 10, 0]
+Menor distância: 49
+tempo decorrido: 1253 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 6, 7, 5, 1, 10, 4, 9, 8, 0]
+Menor distância: 81
+tempo decorrido: 1207 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 2, 6, 8, 7, 3, 1, 4, 10, 0]
+Menor distância: 31
+tempo decorrido: 1309 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 7, 1, 9, 6, 5, 10, 4, 3, 8, 0]
+Menor distância: 41
+tempo decorrido: 1296 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 4, 10, 9, 3, 1, 6, 5, 8, 0]
+Menor distância: 45
+tempo decorrido: 1234 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 4, 7, 10, 9, 5, 2, 1, 8, 6, 0]
+Menor distância: 45
+tempo decorrido: 1259 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 6, 7, 10, 9, 5, 2, 1, 8, 0]
+Menor distância: 44
+tempo decorrido: 1246 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 5, 1, 8, 9, 6, 3, 4, 10, 7, 0]
+Menor distância: 46
+tempo decorrido: 1282 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 10, 1, 2, 4, 5, 3, 7, 6, 9, 0]
+Menor distância: 52
+tempo decorrido: 1341 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 7, 9, 3, 4, 5, 8, 1, 10, 0]
+Menor distância: 61
+tempo decorrido: 1218 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 5, 9, 1, 3, 8, 7, 2, 6, 10, 0]
+Menor distância: 42
+tempo decorrido: 1321 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 1, 8, 6, 10, 4, 5, 7, 2, 9, 0]
+Menor distância: 37
+tempo decorrido: 1253 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 10, 6, 8, 1, 2, 3, 5, 7, 9, 0]
+Menor distância: 55
+tempo decorrido: 1374 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 4, 2, 8, 10, 7, 6, 3, 5, 9, 0]
+Menor distância: 65
+tempo decorrido: 1413 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 10, 4, 8, 6, 7, 5, 2, 3, 9, 0]
+Menor distância: 71
+tempo decorrido: 1215 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 5, 9, 6, 2, 4, 3, 8, 1, 10, 7, 0]
+Menor distância: 51
+tempo decorrido: 1374 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 4, 2, 1, 9, 10, 8, 7, 6, 0]
+Menor distância: 52
+tempo decorrido: 1318 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 3, 1, 2, 8, 7, 6, 9, 10, 5, 0]
+Menor distância: 63
+tempo decorrido: 1291 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 2, 10, 1, 8, 9, 4, 6, 5, 7, 0]
+Menor distância: 46
+tempo decorrido: 1439 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 6, 10, 1, 8, 7, 9, 3, 5, 0]
+Menor distância: 33
+tempo decorrido: 1401 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 9, 1, 2, 8, 5, 4, 10, 6, 7, 0]
+Menor distância: 54
+tempo decorrido: 1198 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 2, 6, 4, 7, 3, 8, 10, 5, 0]
+Menor distância: 50
+tempo decorrido: 1329 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 9, 1, 2, 5, 8, 7, 3, 4, 6, 10, 0]
+Menor distância: 48
+tempo decorrido: 1313 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 2, 3, 7, 8, 1, 6, 5, 10, 9, 0]
+Menor distância: 48
+tempo decorrido: 1285 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 9, 10, 6, 5, 4, 8, 3, 2, 7, 0]
+Menor distância: 58
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 10, 1, 5, 4, 9, 6, 3, 2, 8, 0]
+Menor distância: 40
+tempo decorrido: 1247 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 3, 6, 8, 7, 9, 10, 5, 1, 4, 0]
+Menor distância: 53
+tempo decorrido: 1285 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 1, 3, 9, 2, 8, 7, 4, 10, 6, 5, 0]
+Menor distância: 46
+tempo decorrido: 1243 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 1, 6, 2, 4, 10, 9, 5, 8, 0]
+Menor distância: 50
+tempo decorrido: 1384 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 5, 9, 7, 4, 6, 10, 2, 1, 8, 0]
+Menor distância: 85
+tempo decorrido: 1238 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 6, 2, 5, 1, 10, 9, 3, 8, 7, 0]
+Menor distância: 43
+tempo decorrido: 1295 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 6, 2, 3, 4, 10, 5, 8, 7, 1, 9, 0]
+Menor distância: 53
+tempo decorrido: 1330 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 8, 3, 1, 2, 5, 7, 9, 4, 6, 10, 0]
+Menor distância: 79
+tempo decorrido: 1303 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 10, 3, 7, 4, 8, 9, 5, 1, 6, 0]
+Menor distância: 74
+tempo decorrido: 1292 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 4, 9, 1, 3, 7, 6, 10, 5, 2, 8, 0]
+Menor distância: 52
+tempo decorrido: 1238 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 7, 5, 2, 8, 10, 9, 4, 1, 6, 0]
+Menor distância: 59
+tempo decorrido: 1268 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 3, 8, 5, 1, 4, 10, 7, 2, 9, 6, 0]
+Menor distância: 54
+tempo decorrido: 1283 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 2, 8, 7, 3, 4, 10, 9, 6, 1, 5, 0]
+Menor distância: 56
+tempo decorrido: 1240 em minutos: 0.0
+]
+[
+Melhor caminho: [0, 7, 2, 3, 5, 8, 4, 1, 6, 10, 9, 0]
+Menor distância: 58
+tempo decorrido: 1302 em minutos: 0.0
+]
